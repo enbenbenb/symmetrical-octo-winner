@@ -296,3 +296,21 @@
 [21Jan2025 21:20:27.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2337, y=71, z=1172} BlockPos{x=-2339, y=69, z=1170}
 [21Jan2025 21:20:27.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2337, y=71, z=1172} BlockPos{x=-2339, y=69, z=1170}
 [21Jan2025 21:20:27.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2336, y=72, z=1171} BlockPos{x=-2339, y=69, z=1170}
+[21Jan2025 21:22:49.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
+[21Jan2025 21:23:45.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2339, y=68, z=1171} BlockPos{x=-1540, y=66, z=743}
+[21Jan2025 21:23:58.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1538, y=66, z=731} BlockPos{x=-1538, y=66, z=732}
+[21Jan2025 21:23:59.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1538, y=66, z=731} BlockPos{x=-1538, y=66, z=732}
+[21Jan2025 21:23:59.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1538, y=66, z=731} BlockPos{x=-1538, y=66, z=732}
+[21Jan2025 21:24:00.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1537, y=67, z=731} BlockPos{x=-1537, y=67, z=730}
+[21Jan2025 21:24:01.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1537, y=67, z=732} BlockPos{x=-1535, y=67, z=731}
+[21Jan2025 21:24:01.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1536, y=67, z=732} BlockPos{x=-1535, y=67, z=731}
+[21Jan2025 21:24:01.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1536, y=67, z=733} BlockPos{x=-1535, y=67, z=731}
+[21Jan2025 21:24:04.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1533, y=67, z=734} BlockPos{x=-1535, y=67, z=731}
+[21Jan2025 21:24:15.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1538, y=67, z=736} BlockPos{x=-1538, y=65, z=735}
+[21Jan2025 21:24:15.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1538, y=67, z=736} BlockPos{x=-1538, y=65, z=735}
+[21Jan2025 21:32:39.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EmBsNi[/127.26.200.139:50409] logged in with entity id 79569 at (-1792.5620639100453, 69.0, 673.6673627608305)
+[21Jan2025 21:32:40.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi joined the game
+[21Jan2025 21:32:45.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q paso?
+[21Jan2025 21:33:01.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ema
+[21Jan2025 21:33:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q paso?
+[21Jan2025 21:33:11.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> nada nad
