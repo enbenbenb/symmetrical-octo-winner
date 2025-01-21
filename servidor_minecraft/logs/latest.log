@@ -1,901 +1,109 @@
-[21Jan2025 20:11:23.274] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[21Jan2025 20:11:23.279] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[21Jan2025 20:11:23.545] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[21Jan2025 20:11:23.559] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
-[21Jan2025 20:11:23.560] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/symmetrical-octo-winner/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6%20(1).jar%23101!/
-[21Jan2025 20:11:23.568] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/symmetrical-octo-winner/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6 (1).jar
-[21Jan2025 20:11:23.582] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
-[21Jan2025 20:11:23.649] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[21Jan2025 20:11:23.660] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
-[21Jan2025 20:11:23.911] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jan2025 20:11:23.913] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jan2025 20:11:23.915] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jan2025 20:11:23.916] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[21Jan2025 20:11:24.015] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[21Jan2025 20:11:24.569] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
-[21Jan2025 20:11:24.579] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
-[21Jan2025 20:11:25.073] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
-[21Jan2025 20:11:25.713] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[21Jan2025 20:11:32.059] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[21Jan2025 20:11:32.062] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[21Jan2025 20:11:32.678] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[21Jan2025 20:11:33.026] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
-[21Jan2025 20:11:34.012] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[21Jan2025 20:11:34.886] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/assets/.mcassetsroot' uses unexpected schema
-[21Jan2025 20:11:34.887] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/data/.mcassetsroot' uses unexpected schema
-[21Jan2025 20:11:36.619] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
-[21Jan2025 20:11:36.744] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
-[21Jan2025 20:11:37.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[21Jan2025 20:11:37.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[21Jan2025 20:11:37.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[21Jan2025 20:11:37.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[21Jan2025 20:11:37.303] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[21Jan2025 20:11:37.346] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[21Jan2025 20:11:37.431] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21Jan2025 20:11:37.431] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[21Jan2025 20:11:37.432] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21Jan2025 20:11:37.432] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[21Jan2025 20:11:37.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[21Jan2025 20:11:40.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[21Jan2025 20:11:45.582] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.584] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.585] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.586] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.587] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.588] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.589] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.590] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.590] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.591] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.592] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:45.794] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[21Jan2025 20:11:46.294] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 33%
-[21Jan2025 20:11:46.806] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[21Jan2025 20:11:46.840] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6547 ms
-[21Jan2025 20:11:46.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.396s)! For help, type "help"
-[21Jan2025 20:11:46.857] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[21Jan2025 20:13:14.700] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EmBsNi[/127.26.200.139:55429] logged in with entity id 150 at (-2014.0307180483517, 69.0, 667.7500920098258)
-[21Jan2025 20:13:14.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi joined the game
-[21Jan2025 20:13:27.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2053ms or 41 ticks behind
-[21Jan2025 20:33:16.918] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbasado33[/127.156.193.232:50919] logged in with entity id 5923 at (-1338.25409543066, 63.07472379453526, 572.5880683800294)
-[21Jan2025 20:33:16.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasado33 joined the game
-[21Jan2025 20:33:21.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> bro XD
-[21Jan2025 20:33:26.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> qqqq
-[21Jan2025 20:33:30.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> se apago justo cuando te fuiste
-[21Jan2025 20:33:39.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> te acordas q dije q se apagaria
-[21Jan2025 20:33:49.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> se
-[21Jan2025 20:34:02.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> necesito mas piedra
-[21Jan2025 20:34:04.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tenes?
-[21Jan2025 20:34:17.321] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/7804, l='ServerLevel[world]', x=110.58, y=57.00, z=630.94]
-[21Jan2025 20:34:17.322] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/7805, l='ServerLevel[world]', x=110.35, y=57.85, z=628.68]
-[21Jan2025 20:34:17.323] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/7814, l='ServerLevel[world]', x=100.19, y=75.00, z=624.51]
-[21Jan2025 20:34:17.323] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/7815, l='ServerLevel[world]', x=99.54, y=74.00, z=624.70]
-[21Jan2025 20:34:17.323] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/7817, l='ServerLevel[world]', x=100.07, y=75.00, z=624.70]
-[21Jan2025 20:34:17.324] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/7819, l='ServerLevel[world]', x=98.93, y=74.00, z=624.70]
-[21Jan2025 20:34:17.324] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/7820, l='ServerLevel[world]', x=97.30, y=73.00, z=624.42]
-[21Jan2025 20:34:17.325] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/7822, l='ServerLevel[world]', x=98.56, y=74.00, z=624.10]
-[21Jan2025 20:34:17.325] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/7825, l='ServerLevel[world]', x=100.70, y=75.00, z=624.02]
-[21Jan2025 20:34:27.994] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: PiglinBrute['Piglin Brute'/8064, l='ServerLevel[world]', x=113.30, y=68.00, z=624.80]
-[21Jan2025 20:34:27.995] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/8069, l='ServerLevel[world]', x=127.05, y=84.00, z=624.50]
-[21Jan2025 20:34:39.017] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/8266, l='ServerLevel[world]', x=128.07, y=84.00, z=624.15]
-[21Jan2025 20:34:39.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> piedra lisa
-[21Jan2025 20:34:42.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> f
-[21Jan2025 20:34:53.560] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[21Jan2025 20:35:16.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> hace cuanto se apago?
-[21Jan2025 20:35:22.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> 10m?
-[21Jan2025 20:35:31.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> what
-[21Jan2025 20:35:41.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> deci que las cosas no despawnean en el nether
-[21Jan2025 20:36:09.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> y esto q es
-[21Jan2025 20:36:18.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> una granja de concreto
-[21Jan2025 20:36:28.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> manual
-[21Jan2025 20:36:47.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> lpm necesito piedra
-[21Jan2025 20:37:00.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pizarra?
-[21Jan2025 20:37:09.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ladrillos
-[21Jan2025 20:37:19.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pff
-[21Jan2025 20:37:31.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> voy al end
-[21Jan2025 20:37:34.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> dal
-[21Jan2025 20:37:38.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tenemos libros?
-[21Jan2025 20:37:42.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> creo
-[21Jan2025 20:38:55.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> y esto
-[21Jan2025 20:38:58.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> lo hiciste vos?
-[21Jan2025 20:39:01.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q cosa?
-[21Jan2025 20:39:09.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> la decoracion del portal
-[21Jan2025 20:39:12.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si
-[21Jan2025 20:39:27.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> t gusta?
-[21Jan2025 20:39:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> si
-[21Jan2025 20:39:30.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> epic
-[21Jan2025 20:39:39.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> thk
-[21Jan2025 20:39:42.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> estaria mejor mezclar con bloques del nether
-[21Jan2025 20:39:56.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si ya se, pero lo hize muy improvisado
-[21Jan2025 20:40:55.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> DIOS
-[21Jan2025 20:40:59.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q
-[21Jan2025 20:41:04.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> se me re lageo cuando vi los endermans
-[21Jan2025 20:41:10.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> hdp quien dejo tantas enderpealss
-[21Jan2025 20:41:10.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xd
-[21Jan2025 20:41:23.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> paro cardiaco
-[21Jan2025 20:45:33.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> tiene 12 bloques de alto las plateas de abajo
-[21Jan2025 20:45:48.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> 13 en total
-[21Jan2025 20:45:50.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> me parece
-[21Jan2025 20:46:00.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> osea de estar arriba de la tierra
-[21Jan2025 20:46:34.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> cuando termine el castillo hago el duper de cemento
-[21Jan2025 20:46:43.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> y vas a tener tmb arena para el cristal
-[21Jan2025 20:46:44.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> para el techo
-[21Jan2025 20:47:27.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> dale dale
-[21Jan2025 20:47:28.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> te puede salir efi4 en un libro con la mesa no?
-[21Jan2025 20:48:14.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ya me salio
-[21Jan2025 20:48:33.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> el maximo es efi 4 sisis
-[21Jan2025 20:50:13.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> decime un bloque blanco
-[21Jan2025 20:50:15.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q no sea lana
-[21Jan2025 20:50:17.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ni concreto
-[21Jan2025 20:50:18.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> concreto blanco
-[21Jan2025 20:50:19.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> a
-[21Jan2025 20:50:20.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> cuarzo
-[21Jan2025 20:50:24.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> y no tan caro
-[21Jan2025 20:50:25.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no ya se
-[21Jan2025 20:50:25.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xdxdxd
-[21Jan2025 20:50:32.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> bloques de hueso
-[21Jan2025 20:50:35.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> uuug
-[21Jan2025 20:50:37.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> buena
-[21Jan2025 20:50:38.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> si
-[21Jan2025 20:51:06.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> el cuarzo no te sale caro si te haces 4 aldeanos albañiles
-[21Jan2025 20:51:07.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> les compras
-[21Jan2025 20:51:46.270] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasado33 moved too quickly! 1742.5098750223785,41.26590000152588,-427.01924911345054
-[21Jan2025 20:51:46.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[21Jan2025 20:52:09.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> donde estsa
-[21Jan2025 20:52:17.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> granja de endermans
-[21Jan2025 20:52:20.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> a
-[21Jan2025 20:52:21.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ok
-[21Jan2025 20:54:13.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> seta seta seta seta
-[21Jan2025 20:54:18.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> voy
-[21Jan2025 20:54:41.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> cuando se une tu amigo?
-[21Jan2025 20:54:48.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> talvez la semana qvien
-[21Jan2025 20:54:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> tengo mas ladrillo
-[21Jan2025 20:55:03.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> cuanto
-[21Jan2025 20:55:09.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> 2 stacks y 1
-[21Jan2025 20:55:12.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xd
-[21Jan2025 20:55:18.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> y 38 de roca
-[21Jan2025 20:55:22.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> necesito mas
-[21Jan2025 20:55:28.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> me lleov el beacon
-[21Jan2025 20:55:34.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ok
-[21Jan2025 20:56:13.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pov españoles en america
-[21Jan2025 20:56:27.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> faltan los negr-
-[21Jan2025 20:56:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> sio
-[21Jan2025 20:56:36.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tenes cohetes
-[21Jan2025 20:56:41.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> grax
-[21Jan2025 20:57:06.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> donde me pongo a sacar piedra
-[21Jan2025 20:57:14.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> alguna cueba
-[21Jan2025 20:57:16.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> cueva*
-[21Jan2025 20:57:22.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> uu vi un lugar god
-[21Jan2025 20:57:32.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pasame tus cords
-[21Jan2025 20:57:32.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> el bioma ese
-[21Jan2025 20:57:34.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> voy llendo
-[21Jan2025 20:57:38.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> stony_shore
-[21Jan2025 20:57:43.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> bruugg
-[21Jan2025 20:57:47.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> -2325 71 1137
-[21Jan2025 20:58:56.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> me falta oro
-[21Jan2025 20:59:04.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> los bloques de hierro
-[21Jan2025 20:59:09.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
-[21Jan2025 20:59:12.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> m voy un rato
-[21Jan2025 20:59:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> necesitamos un lingote
-[21Jan2025 20:59:22.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ya
-[21Jan2025 21:03:17.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2385, y=66, z=1154} BlockPos{x=-2385, y=65, z=1154}
-[21Jan2025 21:03:17.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2385, y=66, z=1154} BlockPos{x=-2385, y=65, z=1154}
-[21Jan2025 21:03:17.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2385, y=66, z=1154} BlockPos{x=-2385, y=65, z=1154}
-[21Jan2025 21:03:17.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2385, y=66, z=1154} BlockPos{x=-2385, y=65, z=1154}
-[21Jan2025 21:03:17.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2385, y=66, z=1154} BlockPos{x=-2385, y=65, z=1154}
-[21Jan2025 21:03:17.356] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2385, y=66, z=1154} BlockPos{x=-2385, y=65, z=1154}
-[21Jan2025 21:03:17.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2385, y=66, z=1154} BlockPos{x=-2385, y=65, z=1154}
-[21Jan2025 21:03:17.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2385, y=66, z=1154} BlockPos{x=-2385, y=65, z=1154}
-[21Jan2025 21:03:17.532] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2385, y=66, z=1154} BlockPos{x=-2385, y=65, z=1154}
-[21Jan2025 21:03:17.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2385, y=66, z=1154} BlockPos{x=-2385, y=65, z=1154}
-[21Jan2025 21:04:05.732] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2366, y=61, z=1158} BlockPos{x=-2366, y=60, z=1157}
-[21Jan2025 21:04:05.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2366, y=61, z=1158} BlockPos{x=-2366, y=60, z=1157}
-[21Jan2025 21:04:05.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2366, y=61, z=1158} BlockPos{x=-2366, y=60, z=1157}
-[21Jan2025 21:04:05.850] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2366, y=61, z=1158} BlockPos{x=-2366, y=60, z=1157}
-[21Jan2025 21:04:05.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2366, y=61, z=1158} BlockPos{x=-2366, y=60, z=1157}
-[21Jan2025 21:04:05.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2366, y=61, z=1158} BlockPos{x=-2366, y=60, z=1157}
-[21Jan2025 21:04:06.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2366, y=61, z=1158} BlockPos{x=-2366, y=60, z=1157}
-[21Jan2025 21:04:10.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2364, y=60, z=1155} BlockPos{x=-2364, y=60, z=1157}
-[21Jan2025 21:04:10.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2364, y=60, z=1155} BlockPos{x=-2364, y=60, z=1157}
-[21Jan2025 21:04:10.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2363, y=60, z=1158} BlockPos{x=-2364, y=60, z=1157}
-[21Jan2025 21:04:16.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2362, y=58, z=1152} BlockPos{x=-2363, y=58, z=1153}
-[21Jan2025 21:04:16.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2362, y=58, z=1152} BlockPos{x=-2363, y=58, z=1153}
-[21Jan2025 21:04:16.706] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2362, y=58, z=1152} BlockPos{x=-2363, y=58, z=1153}
-[21Jan2025 21:04:16.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2362, y=58, z=1152} BlockPos{x=-2363, y=58, z=1153}
-[21Jan2025 21:04:16.806] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2362, y=58, z=1152} BlockPos{x=-2363, y=58, z=1153}
-[21Jan2025 21:07:23.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2395, y=64, z=1159} BlockPos{x=-2388, y=64, z=1161}
-[21Jan2025 21:07:23.803] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2395, y=64, z=1159} BlockPos{x=-2388, y=64, z=1161}
-[21Jan2025 21:07:23.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2395, y=64, z=1159} BlockPos{x=-2388, y=64, z=1161}
-[21Jan2025 21:09:03.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> qqqqqqqqq
-[21Jan2025 21:09:08.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> alto pozardo
-[21Jan2025 21:09:08.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q paso
-[21Jan2025 21:09:13.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
-[21Jan2025 21:09:44.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> tenes ender chests?
-[21Jan2025 21:09:47.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> bi
-[21Jan2025 21:09:47.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no
-[21Jan2025 21:10:00.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> n tengo toque de seda
-[21Jan2025 21:10:05.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
-[21Jan2025 21:10:06.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> noob
-[21Jan2025 21:10:07.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> dea
-[21Jan2025 21:10:12.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> en este pico
-[21Jan2025 21:10:19.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> no me digas nuv, me afekta
-[21Jan2025 21:10:21.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pipipi
-[21Jan2025 21:11:24.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2376, y=63, z=1152} BlockPos{x=-2372, y=63, z=1156}
-[21Jan2025 21:11:24.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2376, y=63, z=1152} BlockPos{x=-2372, y=63, z=1156}
-[21Jan2025 21:11:24.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2376, y=63, z=1152} BlockPos{x=-2372, y=63, z=1156}
-[21Jan2025 21:11:24.603] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2376, y=63, z=1152} BlockPos{x=-2372, y=63, z=1156}
-[21Jan2025 21:11:24.653] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2376, y=63, z=1152} BlockPos{x=-2372, y=63, z=1156}
-[21Jan2025 21:11:24.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2376, y=63, z=1152} BlockPos{x=-2372, y=63, z=1156}
-[21Jan2025 21:11:24.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2376, y=63, z=1152} BlockPos{x=-2372, y=63, z=1156}
-[21Jan2025 21:11:41.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tenes comdia?
-[21Jan2025 21:11:44.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si
-[21Jan2025 21:11:48.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> como no vas a tener comida
-[21Jan2025 21:11:49.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> el vendedor
-[21Jan2025 21:11:49.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> nuv
-[21Jan2025 21:11:53.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> mal
-[21Jan2025 21:12:06.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> toma tu pala
-[21Jan2025 21:12:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ya estamos?
-[21Jan2025 21:12:44.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> se me paso por la cabeza hacer una maquina decorativa
-[21Jan2025 21:12:48.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> de sacar petroleo
-[21Jan2025 21:13:02.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> en el mar?
-[21Jan2025 21:13:04.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> aca
-[21Jan2025 21:13:09.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q estamos sacando piedra
-[21Jan2025 21:13:20.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ya
-[21Jan2025 21:13:33.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> una maquina de petroleo en la superficio
-[21Jan2025 21:13:42.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> bueno, como quieras
-[21Jan2025 21:13:47.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> yo la haria en el rio
-[21Jan2025 21:13:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> o mar
-[21Jan2025 21:14:00.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pero tmb se hacen en la tierra
-[21Jan2025 21:14:25.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q
-[21Jan2025 21:14:40.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tenes mas shulker?
-[21Jan2025 21:14:43.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> no
-[21Jan2025 21:16:40.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2348, y=67, z=1153} BlockPos{x=-2347, y=68, z=1153}
-[21Jan2025 21:16:41.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2350, y=69, z=1151} BlockPos{x=-2349, y=67, z=1152}
-[21Jan2025 21:16:41.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2350, y=69, z=1151} BlockPos{x=-2349, y=67, z=1152}
-[21Jan2025 21:16:44.206] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2346, y=70, z=1151} BlockPos{x=-2345, y=69, z=1151}
-[21Jan2025 21:16:47.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2347, y=70, z=1148} BlockPos{x=-2348, y=70, z=1147}
-[21Jan2025 21:16:49.088] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2346, y=70, z=1152} BlockPos{x=-2345, y=69, z=1152}
-[21Jan2025 21:16:49.138] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2346, y=70, z=1152} BlockPos{x=-2345, y=69, z=1152}
-[21Jan2025 21:16:49.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2346, y=70, z=1152} BlockPos{x=-2345, y=69, z=1152}
-[21Jan2025 21:16:49.231] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2346, y=70, z=1152} BlockPos{x=-2345, y=69, z=1152}
-[21Jan2025 21:17:15.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2350, y=69, z=1168} BlockPos{x=-2349, y=68, z=1168}
-[21Jan2025 21:17:16.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2350, y=69, z=1168} BlockPos{x=-2349, y=68, z=1168}
-[21Jan2025 21:17:16.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2349, y=70, z=1168} BlockPos{x=-2349, y=68, z=1168}
-[21Jan2025 21:17:16.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2349, y=71, z=1168} BlockPos{x=-2348, y=70, z=1168}
-[21Jan2025 21:17:18.584] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2349, y=70, z=1168} BlockPos{x=-2348, y=69, z=1168}
-[21Jan2025 21:17:20.960] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[21Jan2025 21:17:54.035] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[21Jan2025 21:17:54.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2344, y=71, z=1172} BlockPos{x=-2344, y=71, z=1171}
-[21Jan2025 21:17:55.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2345, y=71, z=1171} BlockPos{x=-2344, y=72, z=1169}
-[21Jan2025 21:17:55.811] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2345, y=71, z=1171} BlockPos{x=-2344, y=72, z=1169}
-[21Jan2025 21:18:22.935] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
-[21Jan2025 21:18:44.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2345, y=70, z=1171} BlockPos{x=-2345, y=70, z=1170}
-[21Jan2025 21:18:44.082] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2345, y=70, z=1171} BlockPos{x=-2345, y=70, z=1170}
-[21Jan2025 21:18:44.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2345, y=70, z=1171} BlockPos{x=-2345, y=70, z=1170}
-[21Jan2025 21:18:44.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2345, y=70, z=1171} BlockPos{x=-2345, y=70, z=1170}
-[21Jan2025 21:18:44.222] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2345, y=70, z=1171} BlockPos{x=-2345, y=70, z=1170}
-[21Jan2025 21:18:45.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2343, y=70, z=1174} BlockPos{x=-2343, y=68, z=1171}
-[21Jan2025 21:18:45.533] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2342, y=70, z=1173} BlockPos{x=-2343, y=68, z=1171}
-[21Jan2025 21:18:45.535] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2342, y=70, z=1173} BlockPos{x=-2343, y=68, z=1171}
-[21Jan2025 21:18:45.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2342, y=71, z=1173} BlockPos{x=-2343, y=68, z=1171}
-[21Jan2025 21:18:45.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2342, y=71, z=1173} BlockPos{x=-2343, y=68, z=1171}
-[21Jan2025 21:18:46.383] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2341, y=71, z=1172} BlockPos{x=-2341, y=69, z=1171}
-[21Jan2025 21:18:55.018] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[21Jan2025 21:19:14.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> OOOH MY PCCCC
-[21Jan2025 21:19:23.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2343, y=68, z=1176} BlockPos{x=-2342, y=67, z=1176}
-[21Jan2025 21:19:25.411] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[21Jan2025 21:19:26.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q paso
-[21Jan2025 21:19:33.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> c me lague
-[21Jan2025 21:19:35.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> o
-[21Jan2025 21:19:46.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi lost connection: Disconnected
-[21Jan2025 21:19:46.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi left the game
-[21Jan2025 21:20:16.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> fue mas un OOOH MAI PICIIIIIIIIIIIII
-[21Jan2025 21:20:26.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2338, y=70, z=1172} BlockPos{x=-2337, y=69, z=1172}
-[21Jan2025 21:20:26.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2338, y=70, z=1172} BlockPos{x=-2337, y=69, z=1172}
-[21Jan2025 21:20:27.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2337, y=71, z=1172} BlockPos{x=-2339, y=69, z=1170}
-[21Jan2025 21:20:27.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2337, y=71, z=1172} BlockPos{x=-2339, y=69, z=1170}
-[21Jan2025 21:20:27.933] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2337, y=71, z=1172} BlockPos{x=-2339, y=69, z=1170}
-[21Jan2025 21:20:27.983] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2336, y=72, z=1171} BlockPos{x=-2339, y=69, z=1170}
-[21Jan2025 21:22:49.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2034ms or 40 ticks behind
-[21Jan2025 21:23:45.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2339, y=68, z=1171} BlockPos{x=-1540, y=66, z=743}
-[21Jan2025 21:23:58.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1538, y=66, z=731} BlockPos{x=-1538, y=66, z=732}
-[21Jan2025 21:23:59.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1538, y=66, z=731} BlockPos{x=-1538, y=66, z=732}
-[21Jan2025 21:23:59.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1538, y=66, z=731} BlockPos{x=-1538, y=66, z=732}
-[21Jan2025 21:24:00.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1537, y=67, z=731} BlockPos{x=-1537, y=67, z=730}
-[21Jan2025 21:24:01.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1537, y=67, z=732} BlockPos{x=-1535, y=67, z=731}
-[21Jan2025 21:24:01.936] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1536, y=67, z=732} BlockPos{x=-1535, y=67, z=731}
-[21Jan2025 21:24:01.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1536, y=67, z=733} BlockPos{x=-1535, y=67, z=731}
-[21Jan2025 21:24:04.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1533, y=67, z=734} BlockPos{x=-1535, y=67, z=731}
-[21Jan2025 21:24:15.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1538, y=67, z=736} BlockPos{x=-1538, y=65, z=735}
-[21Jan2025 21:24:15.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1538, y=67, z=736} BlockPos{x=-1538, y=65, z=735}
-[21Jan2025 21:32:39.997] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EmBsNi[/127.26.200.139:50409] logged in with entity id 79569 at (-1792.5620639100453, 69.0, 673.6673627608305)
-[21Jan2025 21:32:40.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi joined the game
-[21Jan2025 21:32:45.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q paso?
-[21Jan2025 21:33:01.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ema
-[21Jan2025 21:33:03.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q paso?
-[21Jan2025 21:33:11.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> nada nad
-[21Jan2025 21:33:14.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> me sali un rato
-[21Jan2025 21:33:25.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> okok
-[21Jan2025 21:33:41.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> funciona re piola la granja de concreto
-[21Jan2025 21:33:41.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> uy mi pc
-[21Jan2025 21:33:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> hiciste una ?
-[21Jan2025 21:33:55.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si
-[21Jan2025 21:34:04.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> aa esa
-[21Jan2025 21:34:16.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> penseq decias otra cosa
-[21Jan2025 21:34:33.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xd
-[21Jan2025 21:35:04.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> hdp mi piedra
-[21Jan2025 21:35:08.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> la volviste piedra lisa
-[21Jan2025 21:35:12.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> shulker
-[21Jan2025 21:35:18.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> e?
-[21Jan2025 21:35:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> a no q digo
-[21Jan2025 21:35:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> lo hice yo
-[21Jan2025 21:35:24.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q down
-[21Jan2025 21:35:26.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> bruhhhhhh
-[21Jan2025 21:35:38.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> u q boludo
-[21Jan2025 21:35:40.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> toma
-[21Jan2025 21:35:51.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> YAYA
-[21Jan2025 21:35:53.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> tanto no
-[21Jan2025 21:35:53.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> creo
-[21Jan2025 21:35:54.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
-[21Jan2025 21:36:22.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> y la piedra normal?
-[21Jan2025 21:36:36.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> esta en una shulker
-[21Jan2025 21:36:41.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> odnde
-[21Jan2025 21:36:44.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> y lo otro en el lugar de minacion
-[21Jan2025 21:36:55.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> -2325 71 1137
-[21Jan2025 21:37:27.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> wtf
-[21Jan2025 21:37:34.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q
-[21Jan2025 21:37:41.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> una oveja escalo unos andamios
-[21Jan2025 21:37:51.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q mundo mas raroa
-[21Jan2025 21:37:53.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
-[21Jan2025 21:38:30.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tenes anotorchas o carbon
-[21Jan2025 21:38:36.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> siç
-[21Jan2025 21:38:39.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> antorchas
-[21Jan2025 21:38:54.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> veni
-[21Jan2025 21:39:11.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> PARA
-[21Jan2025 21:39:12.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> toma
-[21Jan2025 21:39:14.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> voy
-[21Jan2025 21:39:14.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> 211 mas
-[21Jan2025 21:39:15.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> 21 mas
-[21Jan2025 21:42:37.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> uri rip
-[21Jan2025 21:42:54.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> no se, capaz no quiere juga mas mine
-[21Jan2025 21:43:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> o consigui novia
-[21Jan2025 21:43:12.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> consiguio*
-[21Jan2025 21:43:14.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> abandono a los pibes
-[21Jan2025 21:43:20.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> sisi, un gil
-[21Jan2025 21:44:39.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no lo nego
-[21Jan2025 21:44:42.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> OPA
-[21Jan2025 21:44:44.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
-[21Jan2025 21:44:53.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> UriPrime?
-[21Jan2025 21:45:07.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ahora cuando entre le decimos pelotudeces
-[21Jan2025 21:45:09.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> no c
-[21Jan2025 21:45:11.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> c
-[21Jan2025 21:45:13.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> le ponemos
-[21Jan2025 21:45:15.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> craaack
-[21Jan2025 21:45:15.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> tipico tio borracho en navidad
-[21Jan2025 21:45:17.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> que genio uri
-[21Jan2025 21:45:22.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> dale
-[21Jan2025 21:45:29.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ponedor
-[21Jan2025 21:45:49.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> eviste a a los de estudiante les dicen pincharata?
-[21Jan2025 21:45:55.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> uri es el pinchaconcha
-[21Jan2025 21:46:01.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> XD
-[21Jan2025 21:47:38.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> creo q tocan las ventanas el techo y terminamos el castillo
-[21Jan2025 21:47:45.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> opa
-[21Jan2025 21:52:58.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> entra
-[21Jan2025 21:53:03.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> che, nos re mintio
-[21Jan2025 21:53:08.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
-[21Jan2025 21:53:16.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> no se conecto nunca mas
-[21Jan2025 21:53:21.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ahi puso
-[21Jan2025 21:53:27.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xd
-[21Jan2025 21:54:00.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> nooo, la ultima vez que entro uri fue cuando recien empezaba el gigant
-[21Jan2025 21:54:05.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> se va a re sorprender
-[21Jan2025 21:54:09.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xd
-[21Jan2025 21:54:35.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q incomodo es hacer techos
-[21Jan2025 21:54:37.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> con escaleras
-[21Jan2025 21:54:43.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> mal
-[21Jan2025 21:54:46.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> voy re lento
-[21Jan2025 21:54:53.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xd
-[21Jan2025 21:55:39.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/127.7.239.188:43925] logged in with entity id 95833 at (-1805.9109377726277, 70.0, 659.1380524923068)
-[21Jan2025 21:55:39.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
-[21Jan2025 21:55:46.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> que haces ponedor
-[21Jan2025 21:55:57.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> naa uri campeon
-[21Jan2025 21:56:03.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ola
-[21Jan2025 21:56:03.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> es un campeon
-[21Jan2025 21:56:07.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> que crak amigo
-[21Jan2025 21:56:11.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q
-[21Jan2025 21:56:13.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> nadie confiaba
-[21Jan2025 21:56:18.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> es un campeon increible
-[21Jan2025 21:56:24.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pero no abandones alos pibes
-[21Jan2025 21:56:24.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> durmamos
-[21Jan2025 21:56:32.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> aunque el uri duerma con una mina
-[21Jan2025 21:56:37.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> que capo que es el uri
-[21Jan2025 21:56:37.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> mal
-[21Jan2025 21:56:39.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> sisi
-[21Jan2025 21:56:43.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> voy adormir
-[21Jan2025 21:56:45.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> per sool
-[21Jan2025 21:56:48.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no como ur
-[21Jan2025 21:56:55.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> de q hablan
-[21Jan2025 21:56:59.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> de que sos un campeon
-[21Jan2025 21:57:03.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> que la pones
-[21Jan2025 21:57:12.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> xd
-[21Jan2025 21:57:17.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> tus padres saben que sos un campeon?
-[21Jan2025 21:57:21.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> zzz
-[21Jan2025 21:57:28.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 21:57:30.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 21:57:38.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> dale bld
-[21Jan2025 21:57:42.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> durmamos
-[21Jan2025 21:57:44.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> uri no duerme porq esta con su mina
-[21Jan2025 21:57:51.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> obvio obvio
-[21Jan2025 21:57:55.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ta con su wa
-[21Jan2025 21:57:56.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> aaa
-[21Jan2025 21:57:57.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> me ataca
-[21Jan2025 21:58:14.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q onda
-[21Jan2025 21:58:17.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 was slain by EmBsNi
-[21Jan2025 21:58:22.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no para
-[21Jan2025 21:58:22.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q
-[21Jan2025 21:58:24.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q¿
-[21Jan2025 21:58:24.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> XD
-[21Jan2025 21:58:28.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q haecs villa
-[21Jan2025 21:58:33.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> bro como te baje toda la vida
-[21Jan2025 21:58:37.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> de 2 espadazos
-[21Jan2025 21:58:45.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> what
-[21Jan2025 21:59:05.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1882, y=70, z=494} BlockPos{x=-1883, y=69, z=494}
-[21Jan2025 21:59:08.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ya terminaron el castillO
-[21Jan2025 21:59:11.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> casi
-[21Jan2025 21:59:20.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> yo tenia 2 stacks se me perdieron
-[21Jan2025 21:59:31.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> paz
-[21Jan2025 21:59:37.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> agarra tus cosas
-[21Jan2025 21:59:38.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> uri
-[21Jan2025 21:59:56.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> viste el gigante de arrouyiot
-[21Jan2025 21:59:58.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q cosas
-[21Jan2025 22:00:11.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> mira uri
-[21Jan2025 22:00:17.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> viste el gigante de arroyito?
-[21Jan2025 22:00:26.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ayuda
-[21Jan2025 22:00:31.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> me atacan
-[21Jan2025 22:00:45.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
-[21Jan2025 22:00:53.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q frio q me agarro ns pq
-[21Jan2025 22:00:57.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> eee
-[21Jan2025 22:01:01.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> lo matamos
-[21Jan2025 22:01:02.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> lo matamos?
-[21Jan2025 22:01:03.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> dale
-[21Jan2025 22:01:04.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> XD
-[21Jan2025 22:01:28.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> NO
-[21Jan2025 22:01:31.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xd
-[21Jan2025 22:01:39.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> bro yo te iba con la mano
-[21Jan2025 22:01:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> valen saco su espada
-[21Jan2025 22:01:49.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 drowned
-[21Jan2025 22:01:51.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> e?
-[21Jan2025 22:01:53.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> XD
-[21Jan2025 22:01:54.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> XDDDD
-[21Jan2025 22:01:56.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> jaajaja
-[21Jan2025 22:01:58.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> Uri pro
-[21Jan2025 22:02:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> perdi las elytras
-[21Jan2025 22:02:03.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> la novia le saco el prime
-[21Jan2025 22:02:04.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q
-[21Jan2025 22:02:07.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> te mato
-[21Jan2025 22:02:12.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> como q perdiste las elytras
-[21Jan2025 22:02:14.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> si te moriste ahogado
-[21Jan2025 22:02:15.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no explotado
-[21Jan2025 22:02:45.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no la tinene ustdes
-[21Jan2025 22:02:46.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> bro vas re mal de ping
-[21Jan2025 22:02:47.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ?
-[21Jan2025 22:02:49.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no
-[21Jan2025 22:02:56.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> 1 barrita tiene uri
-[21Jan2025 22:02:58.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> si
-[21Jan2025 22:03:52.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> la tire aca sin qrer xd
-[21Jan2025 22:03:54.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> estoy con f3 mas B
-[21Jan2025 22:03:57.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no las veo
-[21Jan2025 22:04:03.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> aaaaaah, penso que era la cancha de boca, con razon dijo eso de lo del frio
-[21Jan2025 22:04:06.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> me parece
-[21Jan2025 22:04:10.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> aa claro
-[21Jan2025 22:04:45.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> voy a buscar level de xp
-[21Jan2025 22:04:55.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ok
-[21Jan2025 22:05:01.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> como uri se muere tantas veces ahogado
-[21Jan2025 22:05:03.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ey ema
-[21Jan2025 22:05:04.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
-[21Jan2025 22:05:05.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xddd
-[21Jan2025 22:05:09.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> che hay alguna granja para conseguir esmeraldas mejor q la de raids?
-[21Jan2025 22:05:14.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no
-[21Jan2025 22:05:15.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> conoces a keylor Navas?
-[21Jan2025 22:05:18.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no
-[21Jan2025 22:05:22.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> bueno
-[21Jan2025 22:05:26.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> entoncesn o te puedo decir nd
-[21Jan2025 22:05:29.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> uri la granja de raids si haces una re god
-[21Jan2025 22:05:36.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> te da como 4 stacks de esmeraldas en un par de minutos
-[21Jan2025 22:05:39.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no se iba a un club no me acuerdo cual
-[21Jan2025 22:05:51.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> a Nievels
-[21Jan2025 22:06:00.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> pero no tiene como 50 años
-[21Jan2025 22:06:07.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> un pinguino mas en el chiquero
-[21Jan2025 22:06:16.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> se fue a newels keylor nava
-[21Jan2025 22:06:32.858] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasado33 moved wrongly!
-[21Jan2025 22:06:47.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ahora en ves de ganar los clasicos por 1 gol los vamos a ganar por 3
-[21Jan2025 22:07:00.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si esta re biejo
-[21Jan2025 22:07:01.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> viejo
-[21Jan2025 22:07:59.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[21Jan2025 22:08:22.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> me ayudan con el techo
-[21Jan2025 22:08:32.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
-[21Jan2025 22:08:45.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:08:53.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzzzzzz
-[21Jan2025 22:08:56.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> VOY
-[21Jan2025 22:09:23.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[21Jan2025 22:09:40.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
-[21Jan2025 22:10:02.172] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[21Jan2025 22:10:19.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> 38 años tiene el albañil de Gaylor Nagras
-[21Jan2025 22:10:20.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no encuentra la
-[21Jan2025 22:10:26.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ema
-[21Jan2025 22:10:27.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> dormi
-[21Jan2025 22:10:30.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> mal domri
-[21Jan2025 22:10:30.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no pouedo
-[21Jan2025 22:10:34.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> wsalite
-[21Jan2025 22:10:37.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ok
-[21Jan2025 22:10:39.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi lost connection: Disconnected
-[21Jan2025 22:10:39.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi left the game
-[21Jan2025 22:10:43.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> lol
-[21Jan2025 22:10:44.072] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Disconnected
-[21Jan2025 22:10:44.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
-[21Jan2025 22:11:11.498] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EmBsNi[/127.26.200.139:55077] logged in with entity id 107564 at (-2015.7784395083092, 104.5, 653.9979888288802)
-[21Jan2025 22:11:11.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi joined the game
-[21Jan2025 22:11:16.248] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@31b8e8ae[id=<null>,name=lolwr22,properties={},legacy=false] (/127.7.239.188:48159): Took too long to log in
-[21Jan2025 22:11:16.250] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@31b8e8ae[id=<null>,name=lolwr22,properties={},legacy=false] (/127.7.239.188:48159) lost connection: Took too long to log in
-[21Jan2025 22:11:16.291] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[21Jan2025 22:11:18.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pasame las shulkers
-[21Jan2025 22:11:51.791] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@40126067[id=<null>,name=lolwr22,properties={},legacy=false] (/127.7.239.188:45859) lost connection: Disconnected
-[21Jan2025 22:11:58.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/127.7.239.188:38885] logged in with entity id 107742 at (121.47890437589894, 62.073264324665075, -1939.4818850152126)
-[21Jan2025 22:11:58.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
-[21Jan2025 22:12:18.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> mas perdido
-[21Jan2025 22:14:11.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ni 1 problema el sv
-[21Jan2025 22:14:12.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> o no?
-[21Jan2025 22:14:13.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> che me parece q tenemos q hacer de nuevo la granja
-[21Jan2025 22:14:18.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> cual de todas
-[21Jan2025 22:14:21.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> raids
-[21Jan2025 22:14:23.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pq
-[21Jan2025 22:14:28.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no esta
-[21Jan2025 22:14:29.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[21Jan2025 22:14:31.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> e?
-[21Jan2025 22:14:32.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
-[21Jan2025 22:14:36.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> imaginate cuando Gaylor este en el gigante por el clasico y escuche "NO ABANDONES NIUBEL, NO NO NO"
-[21Jan2025 22:14:49.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> desaparecio la granj?
-[21Jan2025 22:14:53.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> cual?
-[21Jan2025 22:14:58.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> la de riads dice
-[21Jan2025 22:15:02.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> yo la explote
-[21Jan2025 22:15:06.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> joda no?
-[21Jan2025 22:15:09.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> joda
-[21Jan2025 22:15:12.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> obvio
-[21Jan2025 22:15:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q pasop entonces
-[21Jan2025 22:15:30.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> fijate bien
-[21Jan2025 22:15:36.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> uri dice algo
-[21Jan2025 22:15:38.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> y no habla mas
-[21Jan2025 22:15:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> estoy dnd el barco y una isla q rompi
-[21Jan2025 22:15:50.760] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
-[21Jan2025 22:15:53.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> entonces ni idea
-[21Jan2025 22:15:56.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> y la isla aparecio de nuevo y la granja no esta
-[21Jan2025 22:16:08.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> qq
-[21Jan2025 22:16:17.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> significa q no se cargo bien el mundo
-[21Jan2025 22:16:19.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> donde mierda estoy?
-[21Jan2025 22:16:22.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> capaz
-[21Jan2025 22:16:39.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> estaba en el techo y apareci en el corral de caballos
-[21Jan2025 22:16:47.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD?
-[21Jan2025 22:18:21.619] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[21Jan2025 22:19:21.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> mejor q no este la granja de raids
-[21Jan2025 22:19:25.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> PQ
-[21Jan2025 22:19:28.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> asi despues hacemos la mejor
-[21Jan2025 22:19:33.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> lcaro
-[21Jan2025 22:19:35.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> claro
-[21Jan2025 22:19:42.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> EU PASAME EL VIDEO Q LA HAGO YA
-[21Jan2025 22:19:42.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pq es una paja estar afk tanto tiempo en esa
-[21Jan2025 22:19:47.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ok
-[21Jan2025 22:19:58.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> Q PAJA JUSTO QUERIA ESMERALADAS
-[21Jan2025 22:20:04.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> f
-[21Jan2025 22:20:06.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> a talar pibe
-[21Jan2025 22:20:11.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> a tal leñador
-[21Jan2025 22:20:14.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> del clash royale
-[21Jan2025 22:20:23.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> en q arena son en clash?
-[21Jan2025 22:20:25.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> PREFIERO BUSCAR EN LA MINA ESMERALDAS Q IR A TALAR
-[21Jan2025 22:20:29.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no me acuerdo
-[21Jan2025 22:20:32.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> como 4500 copas creo q mas
-[21Jan2025 22:20:33.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> EN LA 5 6
-[21Jan2025 22:20:34.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> mepa q mas
-[21Jan2025 22:20:44.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> creo q 6000 copas tengo
-[21Jan2025 22:20:46.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> NO JUGUE MAS PQ ME RE TILTEABA
-[21Jan2025 22:20:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no para
-[21Jan2025 22:20:50.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> eso es una banda ceo
-[21Jan2025 22:20:50.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xdddd
-[21Jan2025 22:20:57.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> arena 17 es 6000
-[21Jan2025 22:21:04.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tendre 5000 entonces
-[21Jan2025 22:21:07.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> dsps me fioj
-[21Jan2025 22:21:09.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> arena 15
-[21Jan2025 22:21:13.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> bien
-[21Jan2025 22:21:23.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzz
-[21Jan2025 22:21:30.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> 128k items /h
-[21Jan2025 22:21:31.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> yo fui arena 19
-[21Jan2025 22:21:33.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xd
-[21Jan2025 22:21:38.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> PASALA AL DS PAPUCHW
-[21Jan2025 22:21:44.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> si
-[21Jan2025 22:21:47.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> a q?
-[21Jan2025 22:21:52.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> la granja
-[21Jan2025 22:21:54.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzzz
-[21Jan2025 22:21:54.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzz
-[21Jan2025 22:21:54.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzz
-[21Jan2025 22:21:55.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> c
-[21Jan2025 22:21:55.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:21:56.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:21:56.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzz
-[21Jan2025 22:21:57.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:21:57.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:22:00.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no spamees
-[21Jan2025 22:22:02.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> o ba
-[21Jan2025 22:22:03.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ban
-[21Jan2025 22:22:06.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzzz
-[21Jan2025 22:22:07.137] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
-[21Jan2025 22:22:11.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzzzzzzz<
-[21Jan2025 22:22:16.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:22:19.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:22:20.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:22:22.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:22:25.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:22:25.668] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3561ms or 71 ticks behind
-[21Jan2025 22:22:27.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:22:29.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:22:33.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ENTRO AL NETHER
-[21Jan2025 22:22:40.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ahi la pase uri
-[21Jan2025 22:22:45.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[21Jan2025 22:22:56.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pide muchas cosas
-[21Jan2025 22:23:03.377] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3070ms or 61 ticks behind
-[21Jan2025 22:23:16.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz?
-[21Jan2025 22:23:19.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> o no zzz?
-[21Jan2025 22:23:21.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3079ms or 61 ticks behind
-[21Jan2025 22:23:22.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> si zz
-[21Jan2025 22:23:41.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5234ms or 104 ticks behind
-[21Jan2025 22:24:19.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> seguimos
-[21Jan2025 22:24:36.561] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[21Jan2025 22:24:52.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> y ajpra q
-[21Jan2025 22:24:56.446] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4889ms or 97 ticks behind
-[21Jan2025 22:24:57.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
-[21Jan2025 22:25:01.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> CHE BANCAN INTERFAZ 3?
-[21Jan2025 22:25:03.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> co
-[21Jan2025 22:25:08.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> interfaz 2
-[21Jan2025 22:25:15.611] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4204ms or 84 ticks behind
-[21Jan2025 22:25:33.714] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[21Jan2025 22:25:53.743] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5036ms or 100 ticks behind
-[21Jan2025 22:26:48.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> UIUUUH
-[21Jan2025 22:26:50.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> QQ
-[21Jan2025 22:27:11.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> u
-[21Jan2025 22:27:22.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> U WACHO
-[21Jan2025 22:27:28.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> u wach
-[21Jan2025 22:27:31.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> MANTECA
-[21Jan2025 22:27:32.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> UNA EXPLOCION WACHO
-[21Jan2025 22:27:42.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> queso
-[21Jan2025 22:27:47.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> FUEGO ARTIFICIALE
-[21Jan2025 22:27:54.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> messi
-[21Jan2025 22:29:04.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> CHE
-[21Jan2025 22:29:06.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
-[21Jan2025 22:29:13.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> YO LA HAGO SOLO LA GRANJA
-[21Jan2025 22:29:18.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ok
-[21Jan2025 22:29:21.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si queres
-[21Jan2025 22:29:27.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> SI
-[21Jan2025 22:29:32.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=642, y=37, z=242} BlockPos{x=643, y=35, z=241}
-[21Jan2025 22:29:36.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> UFFF
-[21Jan2025 22:29:37.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> LAG
-[21Jan2025 22:29:40.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
-[21Jan2025 22:29:40.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=642, y=36, z=244} BlockPos{x=642, y=35, z=245}
-[21Jan2025 22:29:43.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> me va fresco
-[21Jan2025 22:29:46.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> TNES UNA CARTICA TRISTE
-[21Jan2025 22:29:48.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> CARITA
-[21Jan2025 22:29:58.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
-[21Jan2025 22:30:08.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> NS ME PONE ESO
-[21Jan2025 22:30:15.475] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
-[21Jan2025 22:30:15.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> qcosa
-[21Jan2025 22:30:27.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> UNA CARITA TRISTE EN EL TAB
-[21Jan2025 22:30:33.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xd?
-[21Jan2025 22:30:36.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=735, y=33, z=325} BlockPos{x=735, y=32, z=324}
-[21Jan2025 22:30:38.109] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[21Jan2025 22:30:41.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> eso lo ves solo vos creo
-[21Jan2025 22:30:44.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> porq sos premium
-[21Jan2025 22:30:47.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> QQQ
-[21Jan2025 22:30:54.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> NO PQ TENGO UN TEXTURE PACK
-[21Jan2025 22:30:56.918] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[21Jan2025 22:31:06.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> a
-[21Jan2025 22:31:14.715] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2808ms or 56 ticks behind
-[21Jan2025 22:31:24.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> TIENEN ANDAMIOS ?
-[21Jan2025 22:31:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> nao
-[21Jan2025 22:31:32.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2637ms or 52 ticks behind
-[21Jan2025 22:31:34.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> hay andamios por ahi en el castilo
-[21Jan2025 22:31:37.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> puestos
-[21Jan2025 22:31:49.358] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2051ms or 41 ticks behind
-[21Jan2025 22:31:49.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> U Q PAJA
-[21Jan2025 22:31:53.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> MEJOR HAGO
-[21Jan2025 22:32:06.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2420ms or 48 ticks behind
-[21Jan2025 22:32:20.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> CHE Q ONDA VAMOS A VIVIR TODOS EN EL CASTILLo
-[21Jan2025 22:32:21.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ?
-[21Jan2025 22:32:25.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> nc
-[21Jan2025 22:32:26.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4833ms or 96 ticks behind
-[21Jan2025 22:32:46.948] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5391ms or 107 ticks behind
-[21Jan2025 22:32:54.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=766, y=34, z=367} BlockPos{x=768, y=33, z=366}
-[21Jan2025 22:33:04.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> DND PLANTO BAMBU???
-[21Jan2025 22:33:08.279] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6372ms or 127 ticks behind
-[21Jan2025 22:33:10.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> por ahi ya fue
-[21Jan2025 22:33:16.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> dsps lo cortas
-[21Jan2025 22:33:30.175] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6918ms or 138 ticks behind
-[21Jan2025 22:33:44.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no mueras valen
-[21Jan2025 22:33:46.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> a 2 cora bldd
-[21Jan2025 22:33:54.241] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9084ms or 181 ticks behind
-[21Jan2025 22:33:59.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> casi la palmo en lava
-[21Jan2025 22:34:02.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
-[21Jan2025 22:34:16.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7333ms or 146 ticks behind
-[21Jan2025 22:34:32.185] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=794, y=37, z=384} BlockPos{x=794, y=36, z=383}
-[21Jan2025 22:34:32.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=795, y=37, z=383} BlockPos{x=794, y=37, z=383}
-[21Jan2025 22:34:32.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=795, y=37, z=383} BlockPos{x=794, y=37, z=383}
-[21Jan2025 22:34:34.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=796, y=37, z=386} BlockPos{x=797, y=37, z=384}
-[21Jan2025 22:34:38.477] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6970ms or 139 ticks behind
-[21Jan2025 22:34:43.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> plante al rededor dela tolva
-[21Jan2025 22:34:59.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> todos bardean mi tolva
-[21Jan2025 22:35:01.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7588ms or 151 ticks behind
-[21Jan2025 22:35:01.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pipipi
-[21Jan2025 22:35:04.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
-[21Jan2025 22:35:28.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12875ms or 257 ticks behind
-[21Jan2025 22:35:33.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=903, y=37, z=351} BlockPos{x=903, y=35, z=351}
-[21Jan2025 22:35:33.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=903, y=37, z=351} BlockPos{x=903, y=35, z=351}
-[21Jan2025 22:35:33.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=903, y=37, z=351} BlockPos{x=903, y=35, z=351}
-[21Jan2025 22:35:33.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=903, y=37, z=351} BlockPos{x=903, y=35, z=351}
-[21Jan2025 22:35:33.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=903, y=37, z=351} BlockPos{x=903, y=35, z=351}
-[21Jan2025 22:35:33.677] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=903, y=37, z=351} BlockPos{x=903, y=35, z=351}
-[21Jan2025 22:35:33.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=903, y=37, z=351} BlockPos{x=903, y=35, z=351}
-[21Jan2025 22:35:33.751] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=903, y=38, z=350} BlockPos{x=903, y=35, z=351}
-[21Jan2025 22:35:33.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=904, y=39, z=350} BlockPos{x=903, y=35, z=351}
-[21Jan2025 22:35:36.357] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=903, y=37, z=351} BlockPos{x=904, y=37, z=352}
-[21Jan2025 22:35:52.628] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8771ms or 175 ticks behind
-[21Jan2025 22:35:55.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=908, y=39, z=357} BlockPos{x=907, y=38, z=357}
-[21Jan2025 22:35:58.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=913, y=40, z=356} BlockPos{x=912, y=39, z=355}
-[21Jan2025 22:35:58.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=913, y=40, z=356} BlockPos{x=912, y=39, z=355}
-[21Jan2025 22:35:58.437] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=913, y=40, z=356} BlockPos{x=912, y=39, z=355}
-[21Jan2025 22:35:58.509] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=913, y=40, z=356} BlockPos{x=912, y=39, z=355}
-[21Jan2025 22:36:14.938] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7331ms or 146 ticks behind
-[21Jan2025 22:36:17.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=914, y=39, z=358} BlockPos{x=915, y=38, z=358}
-[21Jan2025 22:36:19.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=913, y=40, z=355} BlockPos{x=913, y=39, z=354}
-[21Jan2025 22:36:22.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> lo hago en el mismo lugar q la otra?
-[21Jan2025 22:36:33.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q sea en mar profundo fijate bien
-[21Jan2025 22:36:37.569] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7662ms or 153 ticks behind
-[21Jan2025 22:36:42.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no sirve mar no profundo
-[21Jan2025 22:36:58.908] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6351ms or 127 ticks behind
-[21Jan2025 22:37:20.276] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6369ms or 127 ticks behind
-[21Jan2025 22:37:37.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> tienen una pala?
-[21Jan2025 22:37:41.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6337ms or 126 ticks behind
-[21Jan2025 22:37:44.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tengo una
-[21Jan2025 22:37:44.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si
-[21Jan2025 22:37:48.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> con 39 usos
-[21Jan2025 22:38:07.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> osea que esta echa bosta
-[21Jan2025 22:38:07.313] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10756ms or 215 ticks behind
-[21Jan2025 22:38:11.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
-[21Jan2025 22:38:28.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> te la intercambio por 15 bloques de oro
-[21Jan2025 22:38:34.975] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12668ms or 253 ticks behind
-[21Jan2025 22:38:39.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> Q
-[21Jan2025 22:38:47.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tienen madera de abeto?
-[21Jan2025 22:38:51.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> n
-[21Jan2025 22:38:56.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> Moment Uri down?
-[21Jan2025 22:39:02.735] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12778ms or 255 ticks behind
-[21Jan2025 22:39:09.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> qq
-[21Jan2025 22:39:27.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> cne j
-[21Jan2025 22:39:30.463] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12756ms or 255 ticks behind
-[21Jan2025 22:39:34.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> che uso concreto para la granja
-[21Jan2025 22:39:36.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ?
-[21Jan2025 22:39:48.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> si te gusta si
-[21Jan2025 22:39:49.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pero
-[21Jan2025 22:39:54.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> es una paja
-[21Jan2025 22:39:57.009] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11552ms or 231 ticks behind
-[21Jan2025 22:40:00.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> por
-[21Jan2025 22:40:02.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> vas a necesitar el duper si necesitas mucha cantidad
-[21Jan2025 22:40:05.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no
-[21Jan2025 22:40:11.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> a entonces usa concreto
-[21Jan2025 22:40:12.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> con lo q hay en el cofre alcanza
-[21Jan2025 22:40:23.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11935ms or 238 ticks behind
-[21Jan2025 22:40:50.685] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11778ms or 235 ticks behind
-[21Jan2025 22:41:18.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12883ms or 257 ticks behind
-[21Jan2025 22:41:45.904] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12397ms or 247 ticks behind
-[21Jan2025 22:42:14.064] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13207ms or 264 ticks behind
-[21Jan2025 22:42:38.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9093ms or 181 ticks behind
-[21Jan2025 22:42:56.345] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
-[21Jan2025 22:43:43.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> che
-[21Jan2025 22:43:47.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q
-[21Jan2025 22:43:50.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
-[21Jan2025 22:43:56.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> el horno me comio medio stack de vidrio
-[21Jan2025 22:44:02.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xd
-[21Jan2025 22:44:09.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> puede pasar
-[21Jan2025 22:44:16.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> buscalo entre las tolvas y los hornos
-[21Jan2025 22:44:23.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> tpeenme
-[21Jan2025 22:44:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tepealo
-[21Jan2025 22:45:58.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> habia una alfombra para quemar eso paso xd
-[21Jan2025 22:46:08.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:46:09.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:10.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:11.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:46:13.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:14.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:15.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:46:17.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:46:18.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:19.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:46:25.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:27.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:30.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:46:30.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:46:31.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:33.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:46:34.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:46:35.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:36.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:46:37.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:46:38.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:39.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:46:40.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:46:41.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:42.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:46:42.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:46:43.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:47.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:46:48.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
-[21Jan2025 22:46:50.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
-[21Jan2025 22:46:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
-[21Jan2025 22:47:10.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> che hay una bdanda de piedra en una fila de hornois y no se agara
-[21Jan2025 22:47:29.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> porq no tiene combustible
-[21Jan2025 22:48:08.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1520, y=66, z=687} BlockPos{x=-1520, y=64, z=687}
-[21Jan2025 22:48:08.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1520, y=66, z=687} BlockPos{x=-1520, y=64, z=687}
-[21Jan2025 22:48:09.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1520, y=66, z=687} BlockPos{x=-1520, y=64, z=687}
-[21Jan2025 22:48:09.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1520, y=66, z=687} BlockPos{x=-1520, y=64, z=687}
-[21Jan2025 22:48:09.145] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1520, y=66, z=687} BlockPos{x=-1520, y=64, z=687}
-[21Jan2025 22:48:09.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1520, y=66, z=687} BlockPos{x=-1520, y=64, z=687}
-[21Jan2025 22:48:09.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1516, y=66, z=686} BlockPos{x=-1517, y=66, z=685}
-[21Jan2025 22:48:16.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=67, z=683} BlockPos{x=-1513, y=66, z=682}
-[21Jan2025 22:48:16.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=67, z=683} BlockPos{x=-1513, y=66, z=682}
-[21Jan2025 22:48:16.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=67, z=683} BlockPos{x=-1512, y=66, z=684}
-[21Jan2025 22:48:16.878] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=685} BlockPos{x=-1512, y=66, z=684}
-[21Jan2025 22:48:44.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1518, y=66, z=687} BlockPos{x=-1519, y=64, z=685}
-[21Jan2025 22:48:47.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1506, y=68, z=686} BlockPos{x=-1506, y=67, z=685}
-[21Jan2025 22:48:48.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1506, y=68, z=686} BlockPos{x=-1506, y=67, z=685}
-[21Jan2025 22:49:01.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1504, y=64, z=693} BlockPos{x=-1504, y=63, z=691}
-[21Jan2025 22:49:01.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1506, y=64, z=691} BlockPos{x=-1505, y=64, z=692}
-[21Jan2025 22:49:08.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1507, y=65, z=689} BlockPos{x=-1509, y=63, z=691}
-[21Jan2025 22:49:08.980] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1507, y=65, z=689} BlockPos{x=-1509, y=63, z=691}
-[21Jan2025 22:49:09.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1507, y=65, z=689} BlockPos{x=-1509, y=63, z=691}
-[21Jan2025 22:49:09.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1507, y=65, z=689} BlockPos{x=-1509, y=63, z=691}
-[21Jan2025 22:49:09.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1510, y=65, z=691} BlockPos{x=-1509, y=63, z=690}
-[21Jan2025 22:49:09.820] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1510, y=65, z=691} BlockPos{x=-1509, y=63, z=690}
-[21Jan2025 22:49:10.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=65, z=689} BlockPos{x=-1511, y=63, z=689}
-[21Jan2025 22:49:11.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.486] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.487] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.592] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.885] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:11.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:12.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:12.071] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=66, z=690} BlockPos{x=-1513, y=65, z=690}
-[21Jan2025 22:49:13.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1511, y=64, z=693} BlockPos{x=-1510, y=63, z=693}
-[21Jan2025 22:49:14.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=65, z=690} BlockPos{x=-1511, y=64, z=692}
-[21Jan2025 22:49:14.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=65, z=690} BlockPos{x=-1511, y=64, z=692}
-[21Jan2025 22:49:15.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1512, y=65, z=690} BlockPos{x=-1511, y=64, z=692}
-[21Jan2025 22:49:59.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> che
-[21Jan2025 22:50:04.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q
-[21Jan2025 22:50:05.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> nos re pasamos con el castillo
-[21Jan2025 22:50:15.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> pot
-[21Jan2025 22:50:31.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> pot
-[21Jan2025 22:50:33.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> por
-[21Jan2025 22:50:34.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> osea, que lo construimos re bien
-[21Jan2025 22:50:40.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2177, y=72, z=616} BlockPos{x=-2178, y=71, z=616}
-[21Jan2025 22:50:40.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2177, y=72, z=616} BlockPos{x=-2178, y=71, z=616}
-[21Jan2025 22:50:40.928] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2180, y=73, z=613} BlockPos{x=-2181, y=74, z=612}
-[21Jan2025 22:50:41.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> gracias a mi
-[21Jan2025 22:50:46.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> obvio
-[21Jan2025 22:50:51.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> no hizo nada el ema
-[21Jan2025 22:50:55.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> mal
-[21Jan2025 22:50:59.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> hicimos todos nosotros
-[21Jan2025 22:51:03.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> y si
-[21Jan2025 22:52:12.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> qui hizo el ema?
-[21Jan2025 22:52:16.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> medio castillo nomas
-[21Jan2025 22:53:02.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> pq los del medio no tienen alfombras pero los del costado si
+[21Jan2025 23:06:29.899] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[21Jan2025 23:06:29.905] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[21Jan2025 23:06:30.124] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[21Jan2025 23:06:30.148] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[21Jan2025 23:06:30.150] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/symmetrical-octo-winner/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6%20(1).jar%23101!/
+[21Jan2025 23:06:30.159] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/symmetrical-octo-winner/servidor_minecraft/mods/OptiFine_1.20.1_HD_U_I6 (1).jar
+[21Jan2025 23:06:30.163] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[21Jan2025 23:06:30.308] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[21Jan2025 23:06:30.327] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[21Jan2025 23:06:30.689] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 23:06:30.766] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 23:06:30.768] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 23:06:30.770] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[21Jan2025 23:06:30.969] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[21Jan2025 23:06:31.851] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[21Jan2025 23:06:31.859] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 412
+[21Jan2025 23:06:32.400] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[21Jan2025 23:06:32.847] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[21Jan2025 23:06:40.625] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[21Jan2025 23:06:40.627] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[21Jan2025 23:06:41.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[21Jan2025 23:06:42.105] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.7 Target: 47.3.22
+[21Jan2025 23:06:42.826] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21Jan2025 23:06:43.592] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/assets/.mcassetsroot' uses unexpected schema
+[21Jan2025 23:06:43.593] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/symmetrical-octo-winner/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23103!/data/.mcassetsroot' uses unexpected schema
+[21Jan2025 23:06:45.736] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 7 recipes
+[21Jan2025 23:06:45.876] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1271 advancements
+[21Jan2025 23:06:46.425] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[21Jan2025 23:06:46.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[21Jan2025 23:06:46.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[21Jan2025 23:06:46.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[21Jan2025 23:06:46.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[21Jan2025 23:06:46.608] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[21Jan2025 23:06:46.700] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21Jan2025 23:06:46.700] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[21Jan2025 23:06:46.700] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21Jan2025 23:06:46.701] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[21Jan2025 23:06:46.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[21Jan2025 23:06:50.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[21Jan2025 23:06:51.200] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 23:06:54.900] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[21Jan2025 23:06:56.964] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.972] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.973] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.974] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.974] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.978] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.979] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.979] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.980] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.980] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.981] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.981] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.983] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:56.984] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:57.182] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[21Jan2025 23:06:57.675] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 32%
+[21Jan2025 23:06:58.175] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 92%
+[21Jan2025 23:06:58.308] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8133 ms
+[21Jan2025 23:06:58.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (11.595s)! For help, type "help"
+[21Jan2025 23:06:58.328] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[21Jan2025 23:07:09.453] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/127.7.239.188:39145] logged in with entity id 148 at (-1851.906539260514, 64.0, 664.90977968231)
+[21Jan2025 23:07:09.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[21Jan2025 23:07:12.051] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2622ms or 52 ticks behind
+[21Jan2025 23:07:57.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elbasado33[/127.156.193.232:37577] logged in with entity id 985 at (-1827.5012197872052, 64.0, 617.3806238631655)
+[21Jan2025 23:07:57.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasado33 joined the game
+[21Jan2025 23:08:09.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> che viola
+[21Jan2025 23:08:11.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> tenes adoquin
+[21Jan2025 23:08:13.875] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Cat['Cat'/1204, l='ServerLevel[world]', x=-1311.90, y=71.00, z=686.49]
+[21Jan2025 23:08:19.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> no tengo
+[21Jan2025 23:08:39.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to elbasado33: perdieron progreso?
+[21Jan2025 23:08:49.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> che vos perdiste progreso lol?
+[21Jan2025 23:08:54.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> yo un poco
+[21Jan2025 23:08:54.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> si
+[21Jan2025 23:09:00.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pero mucho?
+[21Jan2025 23:09:06.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> tenia las paredes
+[21Jan2025 23:09:14.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xd
+[21Jan2025 23:09:26.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[21Jan2025 23:09:50.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> apra
+[21Jan2025 23:10:31.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> curate
+[21Jan2025 23:10:50.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> como te carrea el fuego de mrd ese
+[21Jan2025 23:10:55.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xd
+[21Jan2025 23:15:13.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> 19 observers q paja
+[21Jan2025 23:18:47.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 was burnt to a crisp whilst fighting elbasado33
+[21Jan2025 23:18:50.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> XDXDXDXDXDXDXD
+[21Jan2025 23:19:56.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> curat
+[21Jan2025 23:23:17.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> tengo 25 troncos de abeto si qres
+[21Jan2025 23:23:30.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> n necesito
+[21Jan2025 23:23:56.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> y el beacon
+[21Jan2025 23:24:07.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> esta en unas coordenadas q no me acuerdo
+[21Jan2025 23:24:14.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> apara
+[21Jan2025 23:24:18.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> para q lo dejast eeaahi
+[21Jan2025 23:24:19.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> -2130 71 1170 me parece
+[21Jan2025 23:24:21.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> o por ahi
+[21Jan2025 23:24:25.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> el ema lo queria
+[21Jan2025 23:26:37.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> tenes slime?
+[21Jan2025 23:26:45.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> no
+[21Jan2025 23:26:52.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzz
+[21Jan2025 23:27:17.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
+[21Jan2025 23:27:17.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
+[21Jan2025 23:27:18.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
+[21Jan2025 23:27:18.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
+[21Jan2025 23:27:19.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
+[21Jan2025 23:27:19.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
+[21Jan2025 23:27:19.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
+[21Jan2025 23:27:19.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
+[21Jan2025 23:27:19.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> z
+[21Jan2025 23:33:06.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ei sabes dnd estab el cofre con cubos de lava?
+[21Jan2025 23:33:15.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> nop
