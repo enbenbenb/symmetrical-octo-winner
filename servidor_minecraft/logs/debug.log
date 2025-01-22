@@ -1160,3 +1160,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 18:46:21.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> por la ciencia?
 [22Jan2025 18:46:27.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> talvez le va lento no se
 [22Jan2025 18:46:31.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> qsy
+[22Jan2025 18:47:07.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 18:47:07.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 18:48:47.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> reinicio el sv?
+[22Jan2025 18:49:04.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> como quieras
+[22Jan2025 18:51:08.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> reinicialo
+[22Jan2025 18:51:11.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> asi se puede unir
+[22Jan2025 18:51:17.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasado33 lost connection: Disconnected
+[22Jan2025 18:51:17.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasado33 left the game
+[22Jan2025 18:51:17.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EmBsNi lost connection: Disconnected
+[22Jan2025 18:51:17.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi left the game
+[22Jan2025 18:51:17.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jan2025 18:51:17.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jan2025 18:51:17.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jan2025 18:51:17.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jan2025 18:51:18.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jan2025 18:51:18.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jan2025 18:51:18.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 18:51:18.745] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 18:51:18.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jan2025 18:51:18.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jan2025 18:51:18.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jan2025 18:51:18.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jan2025 18:51:18.772] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
