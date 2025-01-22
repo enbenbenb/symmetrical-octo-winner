@@ -72,3 +72,48 @@
 [22Jan2025 21:36:49.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> eu no quedo nada mal
 [22Jan2025 21:37:04.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> good
 [22Jan2025 21:37:55.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1847, y=63, z=816} BlockPos{x=-1849, y=62, z=815}
+[22Jan2025 21:38:31.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1847, y=61, z=807} BlockPos{x=-1848, y=60, z=808}
+[22Jan2025 21:38:34.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1848, y=62, z=808} BlockPos{x=-1849, y=60, z=808}
+[22Jan2025 21:38:34.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1848, y=62, z=809} BlockPos{x=-1849, y=60, z=808}
+[22Jan2025 21:38:37.789] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1850, y=62, z=810} BlockPos{x=-1851, y=60, z=810}
+[22Jan2025 21:38:48.344] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1855, y=61, z=808} BlockPos{x=-1855, y=60, z=809}
+[22Jan2025 21:38:49.390] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1855, y=62, z=809} BlockPos{x=-1855, y=60, z=809}
+[22Jan2025 21:38:49.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1855, y=62, z=809} BlockPos{x=-1855, y=60, z=809}
+[22Jan2025 21:38:49.493] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1854, y=62, z=810} BlockPos{x=-1855, y=60, z=809}
+[22Jan2025 21:38:49.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1854, y=62, z=810} BlockPos{x=-1855, y=60, z=809}
+[22Jan2025 21:40:15.742] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2096, y=66, z=552} BlockPos{x=-2095, y=65, z=551}
+[22Jan2025 21:40:15.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2096, y=66, z=552} BlockPos{x=-2095, y=65, z=551}
+[22Jan2025 21:40:29.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1995, y=69, z=683} BlockPos{x=-1995, y=68, z=684}
+[22Jan2025 21:40:29.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1995, y=69, z=683} BlockPos{x=-1995, y=68, z=684}
+[22Jan2025 21:40:29.937] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1995, y=69, z=683} BlockPos{x=-1995, y=68, z=684}
+[22Jan2025 21:41:51.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> entra la ropa que esta lloviendo
+[22Jan2025 21:41:55.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
+[22Jan2025 21:42:06.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
+[22Jan2025 21:42:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> cayo un rayo a lado de tu bas
+[22Jan2025 21:42:25.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
+[22Jan2025 21:42:45.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tenemos andesita?
+[22Jan2025 21:42:50.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> no
+[22Jan2025 21:42:56.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2086, y=59, z=539} BlockPos{x=-2086, y=60, z=540}
+[22Jan2025 21:42:58.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> no se
+[22Jan2025 21:44:09.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> uu grava
+[22Jan2025 21:44:11.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> como no probe
+[22Jan2025 21:44:17.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pero no se si queda
+[22Jan2025 21:44:18.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> la graba no
+[22Jan2025 21:44:22.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> la necesito
+[22Jan2025 21:44:26.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> grava*
+[22Jan2025 21:44:26.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
+[22Jan2025 21:44:31.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> cemento
+[22Jan2025 21:44:58.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no hay andesita
+[22Jan2025 21:45:11.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> a ujsto encontre
+[22Jan2025 21:45:23.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1591, y=63, z=716} BlockPos{x=-1590, y=62, z=716}
+[22Jan2025 21:47:20.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> arboles?
+[22Jan2025 21:47:22.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> quedarian
+[22Jan2025 21:47:27.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> dentro del castillo y por fuera
+[22Jan2025 21:47:33.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> a dentro no creo
+[22Jan2025 21:47:36.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pero afuera capaz
+[22Jan2025 21:47:42.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> y por dentro q le meto
+[22Jan2025 21:47:44.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pasto?
+[22Jan2025 21:47:47.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> osea yuyo
+[22Jan2025 21:47:49.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pasto si
+[22Jan2025 21:47:51.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> con polvo de hueso
+[22Jan2025 21:47:53.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si
