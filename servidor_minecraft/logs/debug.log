@@ -1162,3 +1162,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [22Jan2025 00:06:37.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to elbasado33: wachi wachi wa
 [22Jan2025 00:07:02.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jan2025 00:07:02.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 00:08:26.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ahora me entro de nuevo
+[22Jan2025 00:08:30.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Disconnected
+[22Jan2025 00:08:30.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[22Jan2025 00:12:02.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 00:12:02.938] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 00:17:02.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 00:17:02.988] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
