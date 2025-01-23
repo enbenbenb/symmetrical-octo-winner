@@ -1091,3 +1091,38 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jan2025 18:55:18.049] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2154, y=64, z=671} BlockPos{x=-2153, y=63, z=670}
 [23Jan2025 18:55:18.093] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2154, y=64, z=672} BlockPos{x=-2153, y=63, z=670}
 [23Jan2025 18:55:18.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2154, y=64, z=672} BlockPos{x=-2153, y=63, z=670}
+[23Jan2025 18:57:43.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz?
+[23Jan2025 18:57:45.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> voy
+[23Jan2025 18:58:03.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 18:58:03.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 18:59:45.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> vas a ver el partido de Central contra Godoy Cruz?
+[23Jan2025 18:59:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> noc
+[23Jan2025 18:59:55.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> cuando es
+[23Jan2025 19:00:00.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> hoy a las 17
+[23Jan2025 19:00:06.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no
+[23Jan2025 19:00:06.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> 19
+[23Jan2025 19:00:14.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> a las 7
+[23Jan2025 19:01:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> lpm
+[23Jan2025 19:01:22.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> el dia dura 5 minutos y se larga a llover justo ahora
+[23Jan2025 19:01:30.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> parece Santa Fe
+[23Jan2025 19:01:35.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> (esta lloviendo)
+[23Jan2025 19:01:38.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xd
+[23Jan2025 19:02:44.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> se me dupeo la andesita de nuevo wtf
+[23Jan2025 19:02:51.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> piolardo
+[23Jan2025 19:03:00.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> el dia de dupeos
+[23Jan2025 19:03:03.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 19:03:03.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 19:06:32.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> dios
+[23Jan2025 19:06:36.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> qq
+[23Jan2025 19:06:39.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> se me dupearon todas las shulkers no me di cuenta
+[23Jan2025 19:06:50.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> nanana
+[23Jan2025 19:06:54.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> el mejor server
+[23Jan2025 19:06:56.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no abusemos de este bug
+[23Jan2025 19:07:04.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q no
+[23Jan2025 19:07:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> man no
+[23Jan2025 19:07:10.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> es un re abuso
+[23Jan2025 19:07:14.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si se me dupea no voy a tirar la shulker
+[23Jan2025 19:07:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> bue
+[23Jan2025 19:07:26.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> a ver, si se nos dupea sin querer no pasa nada
+[23Jan2025 19:07:43.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pero no lo hagamos apropsito
+[23Jan2025 19:07:47.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> +ok
