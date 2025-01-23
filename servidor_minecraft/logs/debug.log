@@ -1557,3 +1557,118 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jan2025 20:59:14.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ema
 [23Jan2025 20:59:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
 [23Jan2025 20:59:25.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1797, y=65, z=680} BlockPos{x=-1796, y=63, z=682}
+[23Jan2025 21:01:19.070] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/45869, l='ServerLevel[world]', x=-1760.30, y=62.01, z=642.31] died, message: 'Villager suffocated in a wall'
+[23Jan2025 21:01:45.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> dios los aldeanos
+[23Jan2025 21:01:46.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> mira
+[23Jan2025 21:01:51.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q
+[23Jan2025 21:01:55.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> de la granja
+[23Jan2025 21:02:05.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> xd
+[23Jan2025 21:03:03.178] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 21:03:03.183] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 21:03:57.528] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/469, l='ServerLevel[world]', x=-1759.30, y=64.03, z=642.13] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:03:58.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/487, l='ServerLevel[world]', x=-1759.30, y=64.03, z=641.26] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:03:59.825] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/496, l='ServerLevel[world]', x=-1759.30, y=64.68, z=641.14] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:01.333] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/475, l='ServerLevel[world]', x=-1759.30, y=64.27, z=640.13] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:02.633] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/479, l='ServerLevel[world]', x=-1759.30, y=64.00, z=636.15] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:03.280] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/503, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.82] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:03.281] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/533, l='ServerLevel[world]', x=-1759.30, y=64.00, z=634.30] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:03.283] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/521, l='ServerLevel[world]', x=-1759.30, y=64.20, z=637.42] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:03.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/462, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.45] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:03.931] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/501, l='ServerLevel[world]', x=-1759.70, y=64.11, z=637.92] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:05.275] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/516, l='ServerLevel[world]', x=-1759.70, y=63.17, z=642.30] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:05.886] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/493, l='ServerLevel[world]', x=-1759.30, y=64.08, z=638.53] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:07.128] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/526, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.42] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:07.129] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/484, l='ServerLevel[world]', x=-1759.30, y=64.00, z=636.03] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:08.427] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/492, l='ServerLevel[world]', x=-1759.70, y=64.35, z=640.13] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:14.576] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/470, l='ServerLevel[world]', x=-1759.30, y=64.42, z=641.62] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:16.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/519, l='ServerLevel[world]', x=-1759.70, y=64.00, z=634.78] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:17.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/529, l='ServerLevel[world]', x=-1759.30, y=64.08, z=638.30] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:18.232] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/531, l='ServerLevel[world]', x=-1759.30, y=65.24, z=640.12] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:18.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/28487, l='ServerLevel[world]', x=-1759.30, y=64.78, z=641.91] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:19.480] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/463, l='ServerLevel[world]', x=-1759.30, y=64.42, z=640.60] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:20.732] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/532, l='ServerLevel[world]', x=-1759.30, y=64.00, z=636.34] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:21.929] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/499, l='ServerLevel[world]', x=-1759.30, y=64.08, z=638.32] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:22.732] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/498, l='ServerLevel[world]', x=-1759.70, y=64.31, z=640.89] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:22.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/42070, l='ServerLevel[world]', x=-1759.30, y=64.30, z=640.32] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:23.436] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/525, l='ServerLevel[world]', x=-1759.70, y=64.15, z=639.38] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:23.437] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/473, l='ServerLevel[world]', x=-1759.30, y=64.03, z=640.39] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:24.430] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/468, l='ServerLevel[world]', x=-1759.70, y=64.00, z=637.07] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:25.386] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/485, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.53] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:26.030] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/471, l='ServerLevel[world]', x=-1759.30, y=64.00, z=634.89] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:26.631] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/476, l='ServerLevel[world]', x=-1759.70, y=64.00, z=636.07] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:27.832] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/480, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.95] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:27.833] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/467, l='ServerLevel[world]', x=-1759.30, y=64.00, z=636.29] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:28.576] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/506, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.04] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:28.577] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/530, l='ServerLevel[world]', x=-1759.30, y=64.00, z=634.88] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:29.284] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/491, l='ServerLevel[world]', x=-1759.70, y=64.00, z=636.69] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:29.285] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/518, l='ServerLevel[world]', x=-1759.70, y=64.02, z=637.99] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:29.286] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/13656, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.62] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:32.074] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/30531, l='ServerLevel[world]', x=-1759.66, y=65.65, z=642.70] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:33.382] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/502, l='ServerLevel[world]', x=-1759.30, y=64.34, z=640.37] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:33.383] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/486, l='ServerLevel[world]', x=-1759.31, y=64.64, z=640.83] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:34.925] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/495, l='ServerLevel[world]', x=-1759.70, y=65.65, z=641.52] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:34.925] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/483, l='ServerLevel[world]', x=-1759.30, y=64.14, z=641.04] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:35.630] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/489, l='ServerLevel[world]', x=-1759.36, y=64.03, z=640.48] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:35.631] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/505, l='ServerLevel[world]', x=-1759.70, y=64.27, z=639.78] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:36.182] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/523, l='ServerLevel[world]', x=-1759.70, y=64.03, z=637.71] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:36.878] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/494, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.38] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:36.879] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/472, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.86] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:37.534] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/464, l='ServerLevel[world]', x=-1759.30, y=64.00, z=636.35] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:37.535] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/500, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.42] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:38.277] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/524, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.10] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:38.278] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/478, l='ServerLevel[world]', x=-1759.30, y=64.00, z=636.46] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:38.981] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/465, l='ServerLevel[world]', x=-1759.30, y=64.00, z=636.45] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:39.980] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/527, l='ServerLevel[world]', x=-1759.70, y=64.00, z=635.88] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:40.680] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/520, l='ServerLevel[world]', x=-1759.70, y=64.00, z=635.94] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:42.679] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/528, l='ServerLevel[world]', x=-1759.70, y=64.00, z=634.95] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:43.375] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/482, l='ServerLevel[world]', x=-1759.70, y=64.00, z=635.83] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:44.127] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/481, l='ServerLevel[world]', x=-1759.70, y=64.00, z=635.46] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:44.880] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/490, l='ServerLevel[world]', x=-1759.30, y=64.00, z=634.99] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:44.881] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/522, l='ServerLevel[world]', x=-1759.70, y=64.00, z=635.68] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:47.103] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/33110, l='ServerLevel[world]', x=-1759.70, y=64.00, z=634.95] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:47.961] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/477, l='ServerLevel[world]', x=-1759.31, y=64.00, z=636.28] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:48.690] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/474, l='ServerLevel[world]', x=-1759.69, y=64.00, z=634.61] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:50.032] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/504, l='ServerLevel[world]', x=-1759.70, y=64.00, z=635.27] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:50.734] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/488, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.63] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:51.388] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/517, l='ServerLevel[world]', x=-1759.70, y=64.00, z=634.31] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:52.224] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/2955, l='ServerLevel[world]', x=-1759.32, y=64.00, z=635.18] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:04:53.075] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/466, l='ServerLevel[world]', x=-1759.30, y=64.00, z=635.04] died, message: 'Villager was slain by EmBsNi'
+[23Jan2025 21:05:50.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ai
+[23Jan2025 21:06:00.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q
+[23Jan2025 21:07:22.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q onda
+[23Jan2025 21:07:31.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> hola
+[23Jan2025 21:07:32.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> hola
+[23Jan2025 21:07:37.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q hacen
+[23Jan2025 21:07:41.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> saco el horno
+[23Jan2025 21:07:42.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> el gigante
+[23Jan2025 21:07:48.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q gigant
+[23Jan2025 21:07:55.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> el gigante de arroyito
+[23Jan2025 21:08:02.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> el estadio de central
+[23Jan2025 21:08:02.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> seguis en esa
+[23Jan2025 21:08:03.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 21:08:03.171] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 21:08:04.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ¡
+[23Jan2025 21:08:07.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si
+[23Jan2025 21:08:12.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> CUANTO TE FALTA
+[23Jan2025 21:08:19.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> me falta 1 platea y media
+[23Jan2025 21:08:25.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> OKA
+[23Jan2025 21:08:26.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> una platea y la popular
+[23Jan2025 21:08:28.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> CHE EMA EQ HACES
+[23Jan2025 21:08:33.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> saco el horno
+[23Jan2025 21:08:38.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> PQ
+[23Jan2025 21:08:42.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> voy a hacer otro
+[23Jan2025 21:08:44.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> este taba caca
+[23Jan2025 21:09:08.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q disparas loco
+[23Jan2025 21:09:12.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> joda
+[23Jan2025 21:09:18.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> CHE COMO LE HAGO PARA SUBIR ALA GRANJA
+[23Jan2025 21:09:26.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> cual
+[23Jan2025 21:09:27.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> PQ SI PONGO ANDAMIOS SE QUEMAN
+[23Jan2025 21:09:31.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> LA DE ESMERALDAS
+[23Jan2025 21:09:34.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> LA DE RAIDS DIGO
+[23Jan2025 21:09:36.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> prq se queman
+[23Jan2025 21:09:45.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> PQ PONOG LAVA PARA HACER LA ESTRUCTURA
+[23Jan2025 21:09:46.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ya la construiste?
+[23Jan2025 21:09:48.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> NO
+[23Jan2025 21:09:53.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> PERO TNEGOLOS MATERIALES
+[23Jan2025 21:09:57.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> yy
+[23Jan2025 21:10:00.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pone
