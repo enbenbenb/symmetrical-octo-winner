@@ -341,3 +341,66 @@
 [23Jan2025 20:48:37.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> me ayudas a romper el horno?
 [23Jan2025 20:49:19.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> esperame
 [23Jan2025 20:49:25.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> intento terminarlo y te ayudo
+[23Jan2025 20:50:34.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> uri vaa decir algo
+[23Jan2025 20:50:48.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> en q canal?
+[23Jan2025 20:50:58.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> nc en general
+[23Jan2025 20:51:18.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> cada dia me convezco mas de que uri tiene novia
+[23Jan2025 20:51:28.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xD
+[23Jan2025 20:53:10.497] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:44718] logged in with entity id 51316 at (-1853.0118977499073, 66.0, 695.8693463033542)
+[23Jan2025 20:53:10.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[23Jan2025 20:54:53.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:53.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:53.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:53.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:53.971] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:54.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:54.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:54.132] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:54.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:54.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:54.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=65, z=698} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:54.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1518, y=65, z=697} BlockPos{x=-1517, y=65, z=697}
+[23Jan2025 20:54:55.489] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1517, y=64, z=698} BlockPos{x=-1517, y=64, z=696}
+[23Jan2025 20:54:58.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1514, y=65, z=698} BlockPos{x=-1515, y=63, z=698}
+[23Jan2025 20:54:58.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1514, y=65, z=698} BlockPos{x=-1515, y=63, z=698}
+[23Jan2025 20:54:58.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1513, y=65, z=698} BlockPos{x=-1514, y=63, z=698}
+[23Jan2025 20:54:59.791] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1513, y=65, z=697} BlockPos{x=-1512, y=63, z=698}
+[23Jan2025 20:55:07.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1506, y=65, z=698} BlockPos{x=-1507, y=62, z=698}
+[23Jan2025 20:55:07.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1506, y=65, z=698} BlockPos{x=-1507, y=62, z=698}
+[23Jan2025 20:55:08.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1505, y=64, z=699} BlockPos{x=-1507, y=63, z=697}
+[23Jan2025 20:55:08.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1505, y=64, z=699} BlockPos{x=-1507, y=63, z=697}
+[23Jan2025 20:55:12.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=63, z=698} BlockPos{x=-1500, y=62, z=697}
+[23Jan2025 20:55:12.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1500, y=63, z=698} BlockPos{x=-1500, y=62, z=697}
+[23Jan2025 20:56:10.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> otra vez llueve
+[23Jan2025 20:56:15.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q susto amigo
+[23Jan2025 20:56:16.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
+[23Jan2025 20:56:26.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> me salio un creeper
+[23Jan2025 20:56:26.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzz
+[23Jan2025 20:56:27.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
+[23Jan2025 20:56:28.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzz
+[23Jan2025 20:56:28.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
+[23Jan2025 20:56:29.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
+[23Jan2025 20:56:29.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzz
+[23Jan2025 20:56:30.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
+[23Jan2025 20:56:30.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzz
+[23Jan2025 20:56:31.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzzzz
+[23Jan2025 20:56:32.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzz
+[23Jan2025 20:56:42.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no spamees
+[23Jan2025 20:56:52.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> encontre un zombie full hierro
+[23Jan2025 20:57:13.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> es la primera vez q veo uno natural
+[23Jan2025 20:57:16.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> duerman pls
+[23Jan2025 20:57:27.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> porque los aldeanos se pueden convertir en brujas
+[23Jan2025 20:57:33.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> por el rayo
+[23Jan2025 20:57:36.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> si
+[23Jan2025 20:57:51.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zzzz
+[23Jan2025 20:58:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> porfavor
+[23Jan2025 20:58:13.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> duerman
+[23Jan2025 20:58:21.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no voy a ir a dormir si uri no va
+[23Jan2025 20:58:23.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> al pepe
+[23Jan2025 20:58:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> el que no duerme es gay
+[23Jan2025 20:58:40.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> de newells y de boca
+[23Jan2025 20:59:11.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> uri
+[23Jan2025 20:59:13.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
+[23Jan2025 20:59:14.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> ema
+[23Jan2025 20:59:15.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> zz
+[23Jan2025 20:59:25.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1797, y=65, z=680} BlockPos{x=-1796, y=63, z=682}
