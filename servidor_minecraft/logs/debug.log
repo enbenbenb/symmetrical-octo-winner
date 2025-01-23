@@ -2579,3 +2579,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Jan2025 23:39:19.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> SE
 [23Jan2025 23:39:55.792] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Jan2025 23:39:55.797] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 23:44:55.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 23:44:55.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 23:45:30.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 moved too quickly! -0.5842763493220104,-14.133969169922409,1.0161593531840936
+[23Jan2025 23:49:55.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Jan2025 23:49:55.795] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Jan2025 23:51:06.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: hay un youtuber q sube puras granjas
+[23Jan2025 23:51:14.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: y no se que modelo de horno hacer
+[23Jan2025 23:51:19.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: porq el q hice lo saque
+[23Jan2025 23:51:22.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> EL Q TENGA MAS VIISTAS
+[23Jan2025 23:51:26.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: XD
