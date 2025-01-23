@@ -147,3 +147,5 @@
 [23Jan2025 19:27:48.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q paso
 [23Jan2025 19:28:02.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> me pego algo y no habia visto nada
 [23Jan2025 19:28:05.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> pero era un esqueleto
+[23Jan2025 19:28:10.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> xd
+[23Jan2025 19:31:08.420] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/10495, l='ServerLevel[world]', x=-1759.99, y=62.05, z=642.31] died, message: 'Villager suffocated in a wall'
