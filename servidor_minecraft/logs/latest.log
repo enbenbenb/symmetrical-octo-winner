@@ -441,3 +441,69 @@
 [23Jan2025 22:48:00.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> SI
 [23Jan2025 22:48:48.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Timed out
 [23Jan2025 22:48:48.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[23Jan2025 22:49:18.307] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:48836] logged in with entity id 36761 at (-39.683079842820824, 66.0, -241.65128399019164)
+[23Jan2025 22:49:18.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[23Jan2025 22:49:22.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> Q ONDA
+[23Jan2025 22:49:28.304] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[23Jan2025 22:49:33.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: q paso
+[23Jan2025 22:49:49.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
+[23Jan2025 22:49:54.860] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 11561ms or 231 ticks behind
+[23Jan2025 22:49:58.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: pense q se habia apago de lsv
+[23Jan2025 22:50:03.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> XD
+[23Jan2025 22:50:06.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -11.047096844742796,0.0,0.0
+[23Jan2025 22:50:06.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -12.333097778716862,0.0,0.0
+[23Jan2025 22:50:06.426] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -13.631812981858744,0.0,0.0
+[23Jan2025 22:50:06.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -14.943005122823749,0.0,0.0
+[23Jan2025 22:50:06.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -16.266268826749624,0.0,0.0
+[23Jan2025 22:50:06.434] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -17.60097070246333,0.0,0.0
+[23Jan2025 22:50:06.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -18.94620924402288,0.0,0.0
+[23Jan2025 22:50:06.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -20.30075491102035,0.0,0.0
+[23Jan2025 22:50:06.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -21.66292206844942,0.0,0.0
+[23Jan2025 22:50:06.604] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -13.256660703744274,0.0,0.0
+[23Jan2025 22:50:06.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -14.626668329235116,0.0,0.0
+[23Jan2025 22:50:06.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -15.995449172228916,0.0,0.0
+[23Jan2025 22:50:06.608] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -17.359026188173488,0.0,0.0
+[23Jan2025 22:50:06.609] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -18.713916436674765,0.0,0.0
+[23Jan2025 22:50:06.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -20.057186146134086,0.0,0.0
+[23Jan2025 22:50:06.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -21.386544860869037,0.0,0.0
+[23Jan2025 22:50:06.725] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -22.700457213707466,0.0,0.0
+[23Jan2025 22:50:35.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25316ms or 506 ticks behind
+[23Jan2025 22:51:03.267] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13118ms or 262 ticks behind
+[23Jan2025 22:51:38.090] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[23Jan2025 22:51:48.796] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Timed out
+[23Jan2025 22:51:48.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[23Jan2025 22:52:32.850] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c3e66c7[id=<null>,name=lolwr22,properties={},legacy=false] (/[::1]:37948) lost connection: Timed out
+[23Jan2025 22:52:52.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:54914] logged in with entity id 40232 at (-1829.6961276333757, 67.0, 789.3315931253006)
+[23Jan2025 22:52:52.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[23Jan2025 22:52:58.682] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[23Jan2025 22:53:10.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: wachi wachi wa wachi wachi puuum puuum
+[23Jan2025 22:53:21.283] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7634ms or 152 ticks behind
+[23Jan2025 22:55:30.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> PUSO 15 EL DEL VIDEO
+[23Jan2025 22:55:37.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> EL VIDEO BUENOW
+[23Jan2025 22:56:10.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: XD uno 17 y el otro 15
+[23Jan2025 22:56:16.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6561ms or 131 ticks behind
+[23Jan2025 22:56:26.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: entonces son 1 solo y los 15 en el otro
+[23Jan2025 22:56:33.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: no?
+[23Jan2025 22:56:40.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> C
+[23Jan2025 22:56:46.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: el nico se equivoco
+[23Jan2025 22:56:52.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> Q GIL
+[23Jan2025 22:56:56.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: menos mal q te pase el video
+[23Jan2025 22:57:04.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: *cancion meme de superman*
+[23Jan2025 22:57:04.861] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[23Jan2025 22:57:10.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> IGUAL LO IBA A DEJAR ASI JAAJA
+[23Jan2025 22:57:18.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: a
+[23Jan2025 22:57:22.612] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[23Jan2025 22:57:26.717] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved wrongly! 0.3322472989026295
+[23Jan2025 22:57:26.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved wrongly! 0.528749413443208
+[23Jan2025 22:57:26.832] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved wrongly! 0.6806531646169134
+[23Jan2025 22:57:26.833] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved wrongly! 0.908507275371008
+[23Jan2025 22:57:26.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved wrongly! 0.9033148699847118
+[23Jan2025 22:57:26.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved wrongly! 1.0479421288292912
+[23Jan2025 22:57:27.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved wrongly! 1.3937171890364368
+[23Jan2025 22:57:41.498] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2049ms or 40 ticks behind
+[23Jan2025 22:57:55.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ME TENGO Q DEFENDER CON UNA ESPADA DE ORO
+[23Jan2025 22:57:57.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> Q POBRE
+[23Jan2025 22:57:59.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3060ms or 61 ticks behind
+[23Jan2025 22:58:42.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: que mala suerte tenes siento penita :(
+[23Jan2025 22:59:07.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> XD
+[23Jan2025 22:59:39.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: por razones como morir y perder las cosas es que no me pongo a buscar netherite
