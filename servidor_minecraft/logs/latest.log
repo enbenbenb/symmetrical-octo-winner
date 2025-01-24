@@ -646,3 +646,22 @@
 [24Jan2025 22:06:23.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi left the game
 [24Jan2025 22:06:24.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Timed out
 [24Jan2025 22:06:24.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[24Jan2025 22:07:11.983] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:45898] logged in with entity id 84197 at (72.92126090482282, 103.0, -1957.8632950524)
+[24Jan2025 22:07:11.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[24Jan2025 22:07:15.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ola voli
+[24Jan2025 22:07:16.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> q paso
+[24Jan2025 22:07:28.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> me sali sin querer
+[24Jan2025 22:07:40.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <elbasado33> y el ema?
+[24Jan2025 22:07:45.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ns
+[24Jan2025 22:11:47.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jan2025 22:11:47.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jan2025 22:11:47.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Server closed
+[24Jan2025 22:11:47.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[24Jan2025 22:11:47.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jan2025 22:11:48.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jan2025 22:11:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jan2025 22:11:49.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jan2025 22:11:49.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jan2025 22:11:49.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jan2025 22:11:49.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jan2025 22:11:49.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

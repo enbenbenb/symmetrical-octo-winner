@@ -4250,7 +4250,8 @@
   },
   "minecraft:adventure/trim_with_all_exclusive_armor_patterns": {
     "criteria": {
-      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-01-11 20:23:04 +0000"
+      "armor_trimmed_minecraft:rib_armor_trim_smithing_template_smithing_trim": "2025-01-11 20:23:04 +0000",
+      "armor_trimmed_minecraft:snout_armor_trim_smithing_template_smithing_trim": "2025-01-24 22:08:52 +0000"
     },
     "done": false
   },
