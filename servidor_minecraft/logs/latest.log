@@ -73,3 +73,20 @@
 [24Jan2025 20:07:02.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> si y hacer una estructura de spawneo
 [24Jan2025 20:07:09.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> y con eso ya esta
 [24Jan2025 20:11:27.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 moved too quickly! 0.12525559704455702,-10.822838807683254,0.20444302117834923
+[24Jan2025 20:13:40.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 fell off a ladder
+[24Jan2025 20:13:44.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> f
+[24Jan2025 20:14:10.812] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Timed out
+[24Jan2025 20:14:10.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[24Jan2025 20:15:00.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:47762] logged in with entity id 13100 at (-227.7317021879678, 62.07301891882474, -1830.9314888476017)
+[24Jan2025 20:15:00.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[24Jan2025 20:20:19.911] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Jan2025 20:20:36.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> podes dormir?
+[24Jan2025 20:20:45.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no
+[24Jan2025 20:20:50.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ok
+[24Jan2025 20:20:56.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> te salis?
+[24Jan2025 20:21:16.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> espera un toque y duermo
+[24Jan2025 20:21:18.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ok
+[24Jan2025 20:22:17.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: You logged in from another location
+[24Jan2025 20:22:17.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[24Jan2025 20:22:17.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:58488] logged in with entity id 18506 at (-138.64663203889285, 62.07326432466506, -1927.6607284771565)
+[24Jan2025 20:22:17.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
