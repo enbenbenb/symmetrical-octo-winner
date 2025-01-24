@@ -1261,3 +1261,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jan2025 19:58:09.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:53350] logged in with entity id 5697 at (79.41100111320073, 89.0, -1957.657432825649)
 [24Jan2025 19:58:09.099] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@4a018d95 into net.minecraft.network.Connection@33e70eed
 [24Jan2025 19:58:09.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[24Jan2025 20:03:02.268] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 20:03:02.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:06:26.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ahora llevo los aldeanos
+[24Jan2025 20:06:48.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> es lo q te falta?
+[24Jan2025 20:07:02.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> si y hacer una estructura de spawneo
+[24Jan2025 20:07:09.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> y con eso ya esta
+[24Jan2025 20:08:02.253] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 20:08:02.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:11:27.310] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 moved too quickly! 0.12525559704455702,-10.822838807683254,0.20444302117834923
