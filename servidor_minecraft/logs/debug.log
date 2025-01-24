@@ -2621,3 +2621,20 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jan2025 00:20:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: ok
 [24Jan2025 00:20:27.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> TENGO Q TRAER LOS ALDEANOS AHORA ME DA PAJA
 [24Jan2025 00:20:31.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> MAÑANA LA TERMINO
+[24Jan2025 00:22:04.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> 6 COFRES DOBLES DE ESMERALDAS 1 COFRE DOBLE DE POLVORA 1 COFRE DOBLE DE REDSTONE EN 30 MIN
+[24Jan2025 00:22:43.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to lolwr22: q? el del video?
+[24Jan2025 00:23:01.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Timed out
+[24Jan2025 00:23:01.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[24Jan2025 00:24:24.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jan2025 00:24:24.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jan2025 00:24:24.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jan2025 00:24:24.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jan2025 00:24:26.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jan2025 00:24:26.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jan2025 00:24:26.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 00:24:26.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 00:24:26.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jan2025 00:24:26.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jan2025 00:24:26.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jan2025 00:24:26.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[24Jan2025 00:24:26.411] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
