@@ -150,3 +150,13 @@
 [24Jan2025 18:35:50.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elbasado33 lost connection: Disconnected
 [24Jan2025 18:35:50.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elbasado33 left the game
 [24Jan2025 18:35:51.039] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Jan2025 18:50:08.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[24Jan2025 18:50:08.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[24Jan2025 18:50:09.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[24Jan2025 18:50:09.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[24Jan2025 18:50:11.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[24Jan2025 18:50:11.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[24Jan2025 18:50:11.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[24Jan2025 18:50:11.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[24Jan2025 18:50:11.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[24Jan2025 18:50:11.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
