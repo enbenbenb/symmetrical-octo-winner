@@ -60,3 +60,11 @@
 [24Jan2025 19:43:02.203] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [24Jan2025 19:43:22.542] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EmBsNi[/[::1]:36984] logged in with entity id 293 at (6.622774651741288, 80.0, 62.13741886984595)
 [24Jan2025 19:43:22.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: EmBsNi joined the game
+[24Jan2025 19:56:36.807] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:57870] logged in with entity id 4896 at (79.41100111320073, 89.0, -1957.657432825649)
+[24Jan2025 19:56:36.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[24Jan2025 19:56:52.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ola
+[24Jan2025 19:57:00.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> hola
+[24Jan2025 19:57:06.894] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Timed out
+[24Jan2025 19:57:06.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[24Jan2025 19:58:09.099] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:53350] logged in with entity id 5697 at (79.41100111320073, 89.0, -1957.657432825649)
+[24Jan2025 19:58:09.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
