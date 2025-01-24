@@ -520,3 +520,45 @@
 [24Jan2025 21:35:10.169] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7d14af65[id=<null>,name=lolwr22,properties={},legacy=false] (/[::1]:50606) lost connection: Timed out
 [24Jan2025 21:35:19.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:50728] logged in with entity id 67924 at (81.30000001192093, 62.5, -1951.0390486183674)
 [24Jan2025 21:35:19.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[24Jan2025 21:35:49.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Timed out
+[24Jan2025 21:35:49.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[24Jan2025 21:35:59.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:34784] logged in with entity id 68081 at (81.30000001192093, 62.5, -1951.0390486183674)
+[24Jan2025 21:35:59.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[24Jan2025 21:36:29.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lolwr22 lost connection: Timed out
+[24Jan2025 21:36:29.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 left the game
+[24Jan2025 21:37:21.929] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lolwr22[/[::1]:46976] logged in with entity id 68387 at (81.30000001192093, 62.5, -1951.0390486183674)
+[24Jan2025 21:37:21.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
+[24Jan2025 21:37:34.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> me costo
+[24Jan2025 21:37:45.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> subi
+[24Jan2025 21:37:46.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> mañana tenemos que cambiar el servicio
+[24Jan2025 21:37:46.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ok
+[24Jan2025 21:37:48.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no subas aldeanos
+[24Jan2025 21:37:52.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> subi vos
+[24Jan2025 21:38:23.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> trahiste ender chest?
+[24Jan2025 21:39:16.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> se metio solito
+[24Jan2025 21:39:19.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> que noob
+[24Jan2025 21:39:26.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> tenes hacha?
+[24Jan2025 21:39:33.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> lpm justo me la deje
+[24Jan2025 21:39:36.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> xd
+[24Jan2025 21:39:37.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no tengo
+[24Jan2025 21:39:49.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> se mato
+[24Jan2025 21:40:01.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
+[24Jan2025 21:40:03.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> sigue vivo?
+[24Jan2025 21:40:08.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> si
+[24Jan2025 21:40:12.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> naa todo calculado
+[24Jan2025 21:40:24.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> subo otrO?
+[24Jan2025 21:40:29.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> si
+[24Jan2025 21:40:39.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tapa para q no se tire este
+[24Jan2025 21:40:50.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> espera
+[24Jan2025 21:41:09.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no lo tires
+[24Jan2025 21:41:12.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> avisame
+[24Jan2025 21:43:01.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ay
+[24Jan2025 21:43:03.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ya
+[24Jan2025 21:44:23.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> se va a hacer de noche
+[24Jan2025 21:44:32.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> tenes camas'
+[24Jan2025 21:44:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ?
+[24Jan2025 21:44:39.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> esta alla
+[24Jan2025 21:44:48.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> subo al aldeano q falta?
+[24Jan2025 21:44:54.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> se puso mirando el compostador
+[24Jan2025 21:44:55.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no
+[24Jan2025 21:45:00.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> si
