@@ -1487,3 +1487,66 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Jan2025 20:22:17.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lolwr22 joined the game
 [24Jan2025 20:23:04.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jan2025 20:23:04.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:23:32.361] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[24Jan2025 20:26:55.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> estoy mas perdido
+[24Jan2025 20:27:03.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
+[24Jan2025 20:27:17.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q pasa
+[24Jan2025 20:27:39.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> te acordas las coords de la cosa de
+[24Jan2025 20:27:50.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> de raids?
+[24Jan2025 20:27:53.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> c
+[24Jan2025 20:27:59.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> -230 -1800?
+[24Jan2025 20:28:06.351] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 20:28:06.356] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:29:03.063] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[24Jan2025 20:30:13.710] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2056ms or 41 ticks behind
+[24Jan2025 20:30:19.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q golazo
+[24Jan2025 20:30:26.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q
+[24Jan2025 20:30:30.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> le pegue?
+[24Jan2025 20:30:43.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> q
+[24Jan2025 20:31:03.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ya puedo dormir
+[24Jan2025 20:31:15.862] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[24Jan2025 20:31:58.555] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2401ms or 48 ticks behind
+[24Jan2025 20:32:13.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! 0.0855043884142006,0.0,10.840363289238454
+[24Jan2025 20:32:14.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -0.3197652362865,0.0,-14.615539750023288
+[24Jan2025 20:32:14.509] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -0.25788939237906305,0.0,-12.775329675371509
+[24Jan2025 20:32:14.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -0.1925983190791598,0.0,-10.932202475601294
+[24Jan2025 20:32:21.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! -10.291936790297797,0.0,0.0
+[24Jan2025 20:32:22.039] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! 15.748678438373616,0.0,0.0
+[24Jan2025 20:32:22.085] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! 13.974690431134434,0.0,0.0
+[24Jan2025 20:32:22.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! 12.19646813418359,0.0,0.0
+[24Jan2025 20:32:22.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of lolwr22) moved too quickly! 10.414243188486267,0.0,0.0
+[24Jan2025 20:33:14.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 20:33:14.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:35:16.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> q feo el serveo
+[24Jan2025 20:35:17.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> va re lag
+[24Jan2025 20:35:21.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> c
+[24Jan2025 20:35:27.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> lag
+[24Jan2025 20:35:35.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> dnd esyas
+[24Jan2025 20:35:39.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> yo en la base
+[24Jan2025 20:35:48.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> haciendO?
+[24Jan2025 20:35:57.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> necesito lana para camas
+[24Jan2025 20:35:59.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> 36 de lana
+[24Jan2025 20:36:08.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> en el spawn estoy terminando la granja de hierro
+[24Jan2025 20:36:20.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> a estas haciedo la de hierro
+[24Jan2025 20:36:27.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> c
+[24Jan2025 20:36:30.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> ya llevaste los aldeanos?
+[24Jan2025 20:36:34.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no
+[24Jan2025 20:36:35.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> necesito 24 xd
+[24Jan2025 20:36:44.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> unabanda
+[24Jan2025 20:36:54.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> tenes hilo o lana?
+[24Jan2025 20:37:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> no hay en la granja
+[24Jan2025 20:37:08.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> ya me agarre todo y no me alcanzo
+[24Jan2025 20:37:38.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> tenes railes?
+[24Jan2025 20:37:46.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> no
+[24Jan2025 20:37:56.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> existen duper de railes
+[24Jan2025 20:38:14.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 20:38:14.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jan2025 20:38:19.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> aca hay
+[24Jan2025 20:38:27.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> gracias
+[24Jan2025 20:38:32.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> en estas shulkers hay railes
+[24Jan2025 20:38:38.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> pero despues devolvelos q los necesito
+[24Jan2025 20:41:30.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> t ayudo?
+[24Jan2025 20:42:05.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lolwr22> dormir
+[24Jan2025 20:42:08.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <EmBsNi> va
+[24Jan2025 20:43:14.665] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jan2025 20:43:14.670] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
